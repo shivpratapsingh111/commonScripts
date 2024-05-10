@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#create a ssh config of name 'bugbounty' to use this script
+#Change server ip
 
 if [ "$#" -ne 1 ]; then
     echo "Usage: $0 <filename>"
@@ -8,7 +8,7 @@ if [ "$#" -ne 1 ]; then
     exit 1
 fi
 
-SERVER=$(grep "Host bugbounty" ~/.ssh/config | awk '{print $2}')
+SERVER='127.0.0.1'
 
 FILE_TO_UPLOAD=$1
 DESTINATION_PATH="/root/username/$FILE_TO_UPLOAD"
