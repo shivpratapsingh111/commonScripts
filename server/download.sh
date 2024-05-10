@@ -2,7 +2,8 @@
 
 remote=$1
 local=$2
-#Change your server IP
+
+#Change server ip
 SERVER="127.0.0.1"
 
 helpFun() {
