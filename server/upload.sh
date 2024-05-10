@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#create a ssh config of name 'bugbounty' to use this script
+
 if [ "$#" -ne 1 ]; then
     echo "Usage: $0 <filename>"
     echo "File will be uploaded to '/root/username/'"

@@ -2,6 +2,8 @@
 
 remote=$1
 local=$2
+#Change your server IP
+SERVER="127.0.0.1"
 
 helpFun() {
 echo "Usage: "
@@ -17,4 +19,4 @@ then
   exit 1
 fi
 
-scp root@157.245.111.17:$remote $local 
+scp root@$SERVER:$remote $local 
