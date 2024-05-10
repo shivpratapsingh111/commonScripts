@@ -1,23 +1,30 @@
 #!/bin/bash
 
-# Define the output file
+shopt -s extglob
+
+TARGET=$1
 output_file="combined_output.txt"
 
-# Iterate through each subdirectory
+cd "$1/cms/"
+mkdir all
+
 for dir in */; do
-    # Extract the directory name
-    dir_name=$(basename "$dir")
+	dir_name=$(basename "$dir")
+	if [ -d "$dir" ]; then
+		if [ "$dir_name" != "all" ]; then
 
-    # Print the directory name to the output file
-    echo "====================$dir_name====================" >> "$output_file"
-    echo "" >> "$output_file"
+    		echo "====================$dir_name====================" >> "$output_file"
+    		echo "" >> "$output_file"
 
-    # Cat the content of txt file to the output file
-    cat "${dir}cms.json" >> "$output_file"
+    		cat "${dir}cms.json" >> "$output_file"
 
-    # Add a newline for separation
-    echo "" >> "$output_file"
-    echo "" >> "$output_file"
+    		echo "" >> "$output_file"
+    		echo "" >> "$output_file"
+			
+			mv "$dir_name" all
+
+		fi
+	fi
 
 done
 
