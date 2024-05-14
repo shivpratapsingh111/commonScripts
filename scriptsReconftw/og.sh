@@ -13,6 +13,20 @@ fi
 
 echo "[-] Organising $TARGET"
 
+
+# -------------Classify Screenshots------------- 
+cd $currentDir
+
+cd "$currentDir"/ssClassify/
+python3 testScript.py "$1"
+
+echo "[x] 'Classyfing Screeshots' done"
+
+echo "exiting in 10 seconds"
+sleep 10
+exit
+
+
 #-------------CMS-------------
 # Cats all cms.json file in every subdomain's dir and combines in into a single file.
 
@@ -66,9 +80,4 @@ mv *.txt all/
 
 echo "[x] 'fuzzing' done"
 
-# -------------Classify Screenshots------------- 
-cd $currentDir
-
-cd "$currentDir"/ssClassify/
-python3 testScript.py "$1"
 
