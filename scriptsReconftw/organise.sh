@@ -23,37 +23,44 @@ cms(){
 
 cd $currentDir
 output_file="cms.txt"
+if [ -d "$TARGET/cms/" ]; then
 
-cd "$TARGET/cms/"
+	cd "$TARGET/cms/"
 
-if [ -d "all" ]; then
-	echo "[x] 'cms' is already organised"
-	return
+	if [ -d "all" ]; then
+		echo "[x] 'cms' is already organised"
+		return
+
+	else
+		mkdir all
+
+		for dir in */; do
+			dir_name=$(basename "$dir")
+			if [ -d "$dir" ]; then
+				if [ "$dir_name" != "all" ]; then
+
+		    		echo "====================$dir_name====================" >> "$output_file"
+		    		echo "" >> "$output_file"
+
+		    		cat "${dir}cms.json" >> "$output_file"
+
+		    		echo "" >> "$output_file"
+		    		echo "" >> "$output_file"
+
+					mv "$dir_name" all
+
+				fi
+			fi
+
+		done
+
+		echo "[x] 'cms' done"
+
+	fi
 
 else
-	mkdir all
-
-	for dir in */; do
-		dir_name=$(basename "$dir")
-		if [ -d "$dir" ]; then
-			if [ "$dir_name" != "all" ]; then
-
-	    		echo "====================$dir_name====================" >> "$output_file"
-	    		echo "" >> "$output_file"
-
-	    		cat "${dir}cms.json" >> "$output_file"
-
-	    		echo "" >> "$output_file"
-	    		echo "" >> "$output_file"
-
-				mv "$dir_name" all
-
-			fi
-		fi
-
-	done
-
-	echo "[x] 'cms' done"
+	echo "[+] No 'cms' folder found, Skipping.."
+	return
 
 fi
 }
@@ -67,28 +74,34 @@ fi
 fuzzing (){
 cd $currentDir
 
-cd "$TARGET/fuzzing/"
+if [ -d "$TARGET/fuzzing/" ]; then
 
-if [ -d "all" ]; then
-	echo "[x] 'fuzzing' is already organised"
-	return
-	
+	cd "$TARGET/fuzzing/"
+
+	if [ -d "all" ]; then
+		echo "[x] 'fuzzing' is already organised"
+		return
+
+	else
+
+		for file in *; do
+			if [ -f "$file" ]; then
+			cat $file | grep -P '^2\d{2}' >> 200
+			cat $file | grep -P '^3\d{2}' >> 302
+			cat $file | grep -P '^4\d{2}' >> 403
+			cat $file | grep -P '^5\d{2}' >> 500
+			fi
+		done
+		mkdir all
+		mv *.txt all/
+
+		echo "[x] 'fuzzing' done"
+	fi
+
 else
-
-	for file in *; do
-		if [ -f "$file" ]; then
-		cat $file | grep -P '^2\d{2}' >> 200
-		cat $file | grep -P '^3\d{2}' >> 302
-		cat $file | grep -P '^4\d{2}' >> 403
-		cat $file | grep -P '^5\d{2}' >> 500
-		fi
-	done
-	mkdir all
-	mv *.txt all/
-
-	echo "[x] 'fuzzing' done"
+	echo "[+] No 'fuzzing' folder found, Skipping.."
 fi
-	}
+}
 #-----------------------------------------------
 
 
@@ -96,11 +109,16 @@ fi
 # -------------Classify Screenshots------------- 
 
 classifySS(){
-
 cd $currentDir
 
-cd "$currentDir"/ssClassify/
-python3 testScript.py "$TARGET"
+if [ -d "$TARGET/screenshots/" ]; then
+
+	cd "$currentDir"/ssClassify/
+	python3 testScript.py "$TARGET"
+
+else 
+	echo "[+] No 'screenshots' folder found, Skipping.."
+fi
 }
 #-----------------------------------------------
 
