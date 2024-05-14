@@ -65,3 +65,11 @@ mkdir all
 mv *.txt all/
 
 echo "[x] 'fuzzing' done"
+
+# -------------Classify Screenshots------------- 
+cd $currentDir
+
+python3 "$currentDir"/ssClassify/testScript.py "$1/screenshots/"
+
+echo "[x] 'Classyfing Screeshots' done"
+
