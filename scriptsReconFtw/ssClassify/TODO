@@ -10,12 +10,3 @@ What to do:
 What can you do:
     Add more keys and values to strings.json
 
-
-URGENT: 
-
-when you run organise.sh from seperate folder it works but `testScript.py` doesn't works if you run it from `/home/cyrusop/vsCode/commonScripts/scriptsReconftw`
-
-cause:
-run pwd and know
-i gues due to :
-`currentDir=$(dirname $ 0)`
