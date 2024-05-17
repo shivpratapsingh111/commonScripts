@@ -1,7 +1,13 @@
 #!/bin/bash
 
+# `dirname $0` gives the path of the organise.sh file, which helps to identify the main folder having all necessary files to execute the script.
+
+# But if you execute `dirname $0` form folder conataing this script, it will return `.` as the directory name.
+# to get the pure path instead of `.` we used `readlink`
+currentDir="$(dirname "$(readlink -f "$0")")"
+
+
 TARGET=$1
-currentDir=$(pwd)
 
 if [ "$#" -eq 0 ]
 then 
@@ -22,10 +28,14 @@ echo "[-] Organising $TARGET"
 cms(){
 
 cd $currentDir
-output_file="cms.txt"
-if [ -d "$TARGET/cms/" ]; then
+folder=$1
 
-	cd "$TARGET/cms/"
+output_file="cms.txt"
+
+
+if [ -d "$TARGET/$folder/cms/" ]; then
+
+	cd "$TARGET/$folder/cms/"
 
 	if [ -d "all" ]; then
 		echo "[x] 'cms' is already organised"
@@ -73,10 +83,11 @@ fi
 # Going to base dir (OutputFolder)
 fuzzing (){
 cd $currentDir
+folder=$1
 
-if [ -d "$TARGET/fuzzing/" ]; then
+if [ -d "$TARGET/$folder/fuzzing/" ]; then
 
-	cd "$TARGET/fuzzing/"
+	cd "$TARGET/$folder/fuzzing/"
 
 	if [ -d "all" ]; then
 		echo "[x] 'fuzzing' is already organised"
@@ -100,6 +111,7 @@ if [ -d "$TARGET/fuzzing/" ]; then
 
 else
 	echo "[+] No 'fuzzing' folder found, Skipping.."
+	# ls "$TARGET/$folder/fuzzing/"
 fi
 }
 #-----------------------------------------------
@@ -110,20 +122,29 @@ fi
 
 classifySS(){
 cd $currentDir
+folder=$1
+if [ -d "$TARGET/$folder/screenshots/" ]; then
 
-if [ -d "$TARGET/screenshots/" ]; then
-
-	cd "$currentDir"/ssClassify/
-	python3 testScript.py "$TARGET"
+	# cd "$currentDir"/ssClassify/
+	
+	python3 "ssClassify/testScript.py" "$TARGET/$folder"
 
 else 
 	echo "[+] No 'screenshots' folder found, Skipping.."
+
 fi
 }
 #-----------------------------------------------
 
 
 # Calling functions
-cms
-fuzzing
-classifySS
+
+for dir in "$TARGET"/*; do
+
+	dir=$(basename "$dir")
+
+	cms $dir 
+	fuzzing $dir 
+	classifySS $dir
+	echo $dir
+done
