@@ -11,9 +11,9 @@ TARGET=$1
 
 if [ "$#" -eq 0 ]
 then 
-	echo "Provide the target direcotry path"
+	echo "Provide the OutputFolder path"
 	echo "Usage: "
-	echo "./script.sh OutputFolder/google.com"
+	echo "./script.sh OutputFolder/"
 	exit 1
 fi
 
@@ -123,7 +123,7 @@ cd $currentDir
 folder=$1
 if [ -d "$TARGET/$folder/screenshots/" ]; then
 	
-	python3 "ssClassify/testScript.py" "$TARGET/$folder"
+	python3 "ssClassify/script.py" "$TARGET/$folder"
 
 else 
 	echo "[+] No 'screenshots' folder found, Skipping.."
@@ -139,8 +139,8 @@ for dir in "$TARGET"/*; do
 
 	dir=$(basename "$dir")
 
+	echo "----------$dir----------"
 	cms $dir 
 	fuzzing $dir 
 	classifySS $dir
-	echo $dir
 done
