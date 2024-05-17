@@ -1,0 +1,21 @@
+Image classification is working fine
+
+What to do:
+    - Implement multi-threading
+
+    - There are so many variables in the script, it is becoming hard to handle,
+    make another json file that will store which key in `strings.json` belongs to which directory, 
+    Now when you have to move the image to respected directory, fetch the value of the key of strings.json from new json file which will be holding respective directory paths. 
+
+What can you do:
+    Add more keys and values to strings.json
+
+
+URGENT: 
+
+when you run organise.sh from seperate folder it works but `testScript.py` doesn't works if you run it from `/home/cyrusop/vsCode/commonScripts/scriptsReconftw`
+
+cause:
+run pwd and know
+i gues due to :
+`currentDir=$(dirname $ 0)`
