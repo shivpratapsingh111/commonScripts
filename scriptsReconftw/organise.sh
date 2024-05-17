@@ -119,6 +119,7 @@ fi
 # -------------Classify Screenshots------------- 
 
 classifySS(){
+# Going to base dir (OutputFolder)
 cd $currentDir
 folder=$1
 if [ -d "$TARGET/$folder/screenshots/" ]; then
