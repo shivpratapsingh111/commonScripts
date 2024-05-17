@@ -3,7 +3,7 @@
 # `dirname $0` gives the path of the organise.sh file, which helps to identify the main folder having all necessary files to execute the script.
 
 # But if you execute `dirname $0` form folder conataing this script, it will return `.` as the directory name.
-# to get the pure path instead of `.` we used `readlink`
+# to get the pure path instead of `.` relative path, used `readlink`
 currentDir="$(dirname "$(readlink -f "$0")")"
 
 
@@ -24,9 +24,8 @@ echo "[-] Organising $TARGET"
 #-------------CMS-------------
 # Cats all cms.json file in every subdomain's dir and combines in into a single file.
 
-# Going to base dir (OutputFolder)
 cms(){
-
+# Going to base dir (OutputFolder)
 cd $currentDir
 folder=$1
 
@@ -80,8 +79,8 @@ fi
 # -------------Fuzzing------------- 
 # Cats all fuzzing output, combines and categorises according to the status code.
 
-# Going to base dir (OutputFolder)
 fuzzing (){
+# Going to base dir (OutputFolder)
 cd $currentDir
 folder=$1
 
@@ -111,7 +110,6 @@ if [ -d "$TARGET/$folder/fuzzing/" ]; then
 
 else
 	echo "[+] No 'fuzzing' folder found, Skipping.."
-	# ls "$TARGET/$folder/fuzzing/"
 fi
 }
 #-----------------------------------------------
@@ -124,8 +122,6 @@ classifySS(){
 cd $currentDir
 folder=$1
 if [ -d "$TARGET/$folder/screenshots/" ]; then
-
-	# cd "$currentDir"/ssClassify/
 	
 	python3 "ssClassify/testScript.py" "$TARGET/$folder"
 
