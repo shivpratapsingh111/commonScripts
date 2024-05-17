@@ -3,7 +3,7 @@
 # `dirname $0` gives the path of the organise.sh file, which helps to identify the main folder having all necessary files to execute the script.
 
 # But if you execute `dirname $0` form folder conataing this script, it will return `.` as the directory name.
-# to get the pure path instead of `.` relative path, used `readlink`
+# To get the pure path instead of `.` relative path, used `readlink`
 currentDir="$(dirname "$(readlink -f "$0")")"
 
 
