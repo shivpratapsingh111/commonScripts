@@ -8,6 +8,7 @@ else
     for file in "$directory"/*; do
         name=$(basename "$file")
         name="${name//_//}"
+        name="${name%.png}"
         echo $name
     done
 fi
