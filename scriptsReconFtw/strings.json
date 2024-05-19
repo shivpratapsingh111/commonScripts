@@ -37,6 +37,8 @@
     "unauthorized401": "401 Unauthorized",
     "messageForbidden": "{\"message\":\"Forbidden\"}",
     "error": "error",
-    "error1": "Error"
+    "error1": "Error",
+    "forbidden": "Forbidden",
+    "pageNotFound": "404 page not found",
 
 }

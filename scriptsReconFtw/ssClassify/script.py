@@ -17,7 +17,7 @@ def processImage(arg1):
 
     dirList = ['organised', 'organised/other', 'organised/firewall', 'organised/header', 'organised/unclassified', 'organised/unusedService', 'organised/httpBadRequest', 'organised/login', 'organised/defaultPage', 'organised/error', 'organised/methodNotAllowed', 'organised/blocked']
 
-    firewallKeyList = ['cloudfront403', 'imperva22', 'requestBlocked', 'accessDenied','unauthorized401','forbidden403', 'forbidden403_1','messageForbidden', 'notFound404', 'iis404']
+    firewallKeyList = ['cloudfront403', 'forbidden', 'pageNotFound', 'imperva22', 'requestBlocked', 'accessDenied','unauthorized401','forbidden403', 'forbidden403_1','messageForbidden', 'notFound404', 'iis404']
     blockedKeyList = ['cloudflareBlocked']
     loginKeyList = ['login', 'signup', 'signin', 'register', 'signin1','username','password']
     otherKeyList = ['noRouteMatched','ringBalancer', 'statusOK']
