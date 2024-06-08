@@ -1,23 +1,23 @@
-### This script helps to exlude Nuclei Templates based on IDs
+### Exclude Nuclei Templates based on IDs
  
-- organiseNuclei.py - Excludes unwanted nuclei templates (Currently supports exclusions through ID)
+- organiseNuclei.py - Excludes unwanted nuclei templates (Moves them into **.excludedNucleiTemplates/**, hidden in linux)
 
-- id.txt - contains IDs to exclude
+- id.txt - contains IDs to exclude (You can add more IDs to exclude)
 
 ### Usage:
 
-- If your provide id.txt, then it will exclude all Nuclei Templates that matches in id.txt
+- If your provide id.txt, then it will exclude all Nuclei Templates with id that matches in id.txt
 
     ```
     python3 organiseTemplates.py -dir /home/nuclei-templates -i id.txt
     ```
-- If you don't provide id.txt then it will remove templates set by default in the script
+- If you don't provide id.txt then it will remove templates with IDs set by default in the script
 
     ```
     python3 organiseTemplates.py -dir /home/nuclei-templates
     ```
 
-**Currently it only supports exclusion through ID**
+**Currently it only supports exclusion through IDs**
 
 ### Workflow:
 
