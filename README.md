@@ -1,3 +1,8 @@
+### nuclei
+* nuclei dir contains scripts related to nuclei templates
+    * organiseNuclei.py - Excludes unwanted nuclei templates (Currently supports exclusions through ID)
+    * id.txt - contains IDs to exclude
+
 ### scriptsReconftw
 * scriptsReconftw dir contains scripts related to ReconFTW tool, to organize.
     * ssClassify/ - This folder contains all the necessary files and code to classify scrrenshots based on their category. (Sub-Module of `organise.sh`)
@@ -10,3 +15,4 @@
     * download.sh - downloads file from server using scp utility.
     * upload.sh - uploads file to server using scp utility.
     * syncFolder.sh - syncs server & client folder.
+
