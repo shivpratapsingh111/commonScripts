@@ -6,6 +6,12 @@
 
 ### Usage:
 
+- List available options
+
+    ```
+    python3 organiseTemplates.py --help
+    ```
+
 - If your provide id.txt, then it will exclude all Nuclei Templates with id that matches in id.txt
 
     ```
