@@ -1,7 +1,5 @@
 ### nuclei
-* nuclei/ dir contains scripts related to nuclei templates
-    * organiseNuclei.py - Excludes unwanted nuclei templates (Currently supports exclusions through ID)
-    * id.txt - contains IDs to exclude
+* Script to organise nuclei templates: https://github.com/shivpratapsingh111/organiseNuclei
 
 ### scriptsReconftw
 * scriptsReconftw/ dir contains scripts related to ReconFTW tool, to organize.
