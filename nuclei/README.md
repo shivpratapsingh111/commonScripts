@@ -1,6 +1,8 @@
+This script moves unwanted nuclei templates to a different directory, so they don't get executed while you use nuclei, You can get them back whenever you want using `-rev` flag.
+---
 ### Exclude Nuclei Templates based on IDs
  
-- organiseNuclei.py - Excludes unwanted nuclei templates (Moves them into **.excludedNucleiTemplates/**, hidden in linux)
+- organiseNuclei.py - Moves unwanted nuclei templates to a separate directory
 
 - id.txt - contains IDs to exclude (You can add more IDs to exclude)
 
