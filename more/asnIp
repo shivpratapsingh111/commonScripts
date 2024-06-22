@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Read ASNs from standard input (pipe)
+while IFS= read -r ASN; do
+    whois -h whois.radb.net -- '-i origin '"$ASN" | grep -Eo "([0-9.]+){4}/[0-9]+" | uniq
+done

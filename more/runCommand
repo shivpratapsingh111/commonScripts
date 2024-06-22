@@ -1,0 +1,42 @@
+#!/bin/bash
+
+# Function to check internet connectivity
+check_internet() {
+    # Try to ping Google's DNS server
+    ping -c 1 8.8.8.8 &> /dev/null
+    return $?
+}
+
+# Function to handle process suspension and resumption
+manage_process() {
+    local PID=$1
+    
+    while kill -0 $PID 2> /dev/null; do
+        if check_internet; then
+            # If internet is available, check again after 5 seconds
+            sleep 5
+        else
+            # If internet is not available, suspend the command and notify the user
+            kill -STOP $PID
+            echo "Internet connection lost. Command has been suspended."
+            
+            # Wait until the internet connection is restored
+            until check_internet; do
+                sleep 5
+            done
+            
+            # Resume the command and notify the user
+            kill -CONT $PID
+            echo "Internet connection restored. Command has been resumed."
+        fi
+    done
+}
+
+# Run the provided command in a subshell and get its PID
+(
+    "$@"
+) &
+CMD_PID=$!
+
+# Manage the process based on internet connectivity
+manage_process $CMD_PID

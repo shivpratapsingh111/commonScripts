@@ -1,0 +1,28 @@
+#!/bin/bash
+
+# Function to install xsel
+install_xsel() {
+    if command -v apt-get &> /dev/null; then
+        sudo apt-get install -y xsel
+    elif command -v yum &> /dev/null; then
+        sudo yum install -y xsel
+    elif command -v pacman &> /dev/null; then
+        sudo pacman -Sy --noconfirm xsel
+    else
+        echo "Unsupported package manager. Please install xsel manually."
+        exit 1
+    fi
+}
+
+# Check if xsel is installed
+if ! command -v xsel &> /dev/null; then
+    echo "xsel is not installed, attempting to install it..."
+    install_xsel
+    if ! command -v xsel &> /dev/null; then
+        echo "Failed to install xsel. Please install it manually."
+        exit 1
+    fi
+fi
+
+# Redirect standard output to xsel
+cat | xsel --clipboard

@@ -1,0 +1,30 @@
+#!/bin/bash
+
+# rm orgs.txt
+
+# while IFS= read -r ip; do
+
+#     orgName=$(whois $ip | grep -i orgname |sed 's/.*: //' |sed 's/^ *//')
+    
+#     echo "$orgName: $ip" |tee -a orgs.txt
+
+
+# done
+
+# Function to get organization name for an IP address
+get_org_name() {
+    local ip="$1"
+    local orgName=$(whois "$ip" | grep -i orgname | sed 's/.*: //' | sed 's/^ *//')
+    echo "$orgName: $ip"
+}
+
+# Export the function so that it can be used by GNU Parallel
+export -f get_org_name
+
+# Main script
+rm -f orgs.txt
+
+# Read input IPs and process them in parallel
+while IFS= read -r ip; do
+    echo "$ip"
+done | parallel -j 8 get_org_name {} | tee -a orgs.txt

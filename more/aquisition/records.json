@@ -1,0 +1,2618 @@
+{
+    "whoisRecords": {
+        "essiac.ca": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.ca.fury.ca",
+                "Registrar": "Go Daddy Domains Canada, Inc",
+                "Registrar IANA ID": "not applicable",
+                "Registry Domain ID": "D493371-CIRA",
+                "Registrant Organization": "REDACTED FOR PRIVACY",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "Please ask the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Other contacts of the queried domain name",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "Please ask the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Other contacts of the queried domain name",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "Please ask the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Other contacts of the queried domain name",
+                "Name Server": [
+                    "ns68.domaincontrol.com",
+                    "ns67.domaincontrol.com"
+                ]
+            }
+        },
+        "appstore.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.comlaude.com",
+                "Registrar": [
+                    "NOM-IQ Ltd dba Com Laude",
+                    "Nom-iq Ltd. dba COM LAUDE"
+                ],
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "1776392_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "appstore.com-Registrant@anonymised.email",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "appstore.com-Admin@anonymised.email",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "appstore.com-Tech@anonymised.email",
+                "Name Server": [
+                    "b.ns.apple.com",
+                    "d.ns.apple.com",
+                    "B.NS.APPLE.COM",
+                    "C.NS.APPLE.COM",
+                    "c.ns.apple.com",
+                    "a.ns.apple.com",
+                    "D.NS.APPLE.COM",
+                    "A.NS.APPLE.COM"
+                ]
+            }
+        },
+        "apple-livephotoskit.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.comlaude.com",
+                "Registrar": [
+                    "NOM-IQ Ltd dba Com Laude",
+                    "Nom-iq Ltd. dba COM LAUDE"
+                ],
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "2022871895_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "apple-livephotoskit.com-Registrant@anonymised.email",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "apple-livephotoskit.com-Admin@anonymised.email",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "apple-livephotoskit.com-Tech@anonymised.email",
+                "Name Server": [
+                    "b.ns.apple.com",
+                    "d.ns.apple.com",
+                    "B.NS.APPLE.COM",
+                    "C.NS.APPLE.COM",
+                    "c.ns.apple.com",
+                    "a.ns.apple.com",
+                    "D.NS.APPLE.COM",
+                    "A.NS.APPLE.COM"
+                ]
+            }
+        },
+        "appleeducationaffiliate.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.comlaude.com",
+                "Registrar": [
+                    "NOM-IQ Ltd dba Com Laude",
+                    "Nom-iq Ltd. dba COM LAUDE"
+                ],
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "1576941004_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "appleeducationaffiliate.com-Registrant@anonymised.email",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "appleeducationaffiliate.com-Admin@anonymised.email",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "appleeducationaffiliate.com-Tech@anonymised.email",
+                "Name Server": [
+                    "b.ns.apple.com",
+                    "d.ns.apple.com",
+                    "B.NS.APPLE.COM",
+                    "C.NS.APPLE.COM",
+                    "c.ns.apple.com",
+                    "a.ns.apple.com",
+                    "D.NS.APPLE.COM",
+                    "A.NS.APPLE.COM"
+                ]
+            }
+        },
+        "calendarserver.org": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "http://whois.comlaude.com",
+                "Registrar": "Nom-iq Ltd. dba COM LAUDE",
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "ffd695168f06467bbdd5ca9627bda8b4-LROR",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+                "Name Server": [
+                    "a.ns.apple.com",
+                    "c.ns.apple.com",
+                    "b.ns.apple.com",
+                    "d.ns.apple.com"
+                ]
+            }
+        },
+        "icloud.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.comlaude.com",
+                "Registrar": [
+                    "NOM-IQ Ltd dba Com Laude",
+                    "Nom-iq Ltd. dba COM LAUDE"
+                ],
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "3079972_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "icloud.com-Registrant@anonymised.email",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "icloud.com-Admin@anonymised.email",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "icloud.com-Tech@anonymised.email",
+                "Name Server": [
+                    "b.ns.apple.com",
+                    "d.ns.apple.com",
+                    "B.NS.APPLE.COM",
+                    "C.NS.APPLE.COM",
+                    "c.ns.apple.com",
+                    "a.ns.apple.com",
+                    "D.NS.APPLE.COM",
+                    "A.NS.APPLE.COM"
+                ]
+            }
+        },
+        "swift.org": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "http://whois.comlaude.com",
+                "Registrar": "Nom-iq Ltd. dba COM LAUDE",
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "2cea296cde8c4bd3a35149068ff1a5e8-LROR",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+                "Name Server": [
+                    "a.ns.apple.com",
+                    "c.ns.apple.com",
+                    "b.ns.apple.com",
+                    "d.ns.apple.com"
+                ]
+            }
+        },
+        "greatgreenapple.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.godaddy.com",
+                "Registrar": "GoDaddy.com, LLC",
+                "Registrar IANA ID": "146",
+                "Registry Domain ID": "87770830_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Domains By Proxy, LLC",
+                "Registrant Phone": "+1.4806242599",
+                "Registrant Fax": "Registrant Fax Ext:",
+                "Registrant Email": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=GREATGREENAPPLE.COM",
+                "Admin Organization": "Domains By Proxy, LLC",
+                "Admin Phone": "+1.4806242599",
+                "Admin Fax": "Admin Fax Ext:",
+                "Admin Email": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=GREATGREENAPPLE.COM",
+                "Tech Organization": "Domains By Proxy, LLC",
+                "Tech Phone": "+1.4806242599",
+                "Tech Fax": "Tech Fax Ext:",
+                "Tech Email": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=GREATGREENAPPLE.COM",
+                "Name Server": [
+                    "NS06.DOMAINCONTROL.COM",
+                    "NS05.DOMAINCONTROL.COM"
+                ]
+            }
+        },
+        "apple-studies.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.comlaude.com",
+                "Registrar": [
+                    "NOM-IQ Ltd dba Com Laude",
+                    "Nom-iq Ltd. dba COM LAUDE"
+                ],
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "2118398495_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Domain Licenses Limited",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "apple-studies.com-Registrant@anonymised.email",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "apple-studies.com-Admin@anonymised.email",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "apple-studies.com-Tech@anonymised.email",
+                "Name Server": [
+                    "NS-1866.AWSDNS-41.CO.UK",
+                    "ns-1373.awsdns-43.org",
+                    "ns-1866.awsdns-41.co.uk",
+                    "NS-1373.AWSDNS-43.ORG",
+                    "NS-198.AWSDNS-24.COM",
+                    "ns-198.awsdns-24.com",
+                    "ns-848.awsdns-42.net",
+                    "NS-848.AWSDNS-42.NET"
+                ]
+            }
+        },
+        "applevalleywaste.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.namecheap.com",
+                "Registrar": [
+                    "NAMECHEAP INC",
+                    "NameCheap, Inc."
+                ],
+                "Registrar IANA ID": "1068",
+                "Registry Domain ID": "594950728_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Privacy service provided by Withheld for Privacy ehf",
+                "Registrant Phone": "+354.4212434",
+                "Registrant Fax": "Registrant Fax Ext: ",
+                "Registrant Email": "844de8a0e93b49afa3d01967cb20c872.protect@withheldforprivacy.com",
+                "Admin Organization": "Privacy service provided by Withheld for Privacy ehf",
+                "Admin Phone": "+354.4212434",
+                "Admin Fax": "Admin Fax Ext: ",
+                "Admin Email": "844de8a0e93b49afa3d01967cb20c872.protect@withheldforprivacy.com",
+                "Tech Organization": "Privacy service provided by Withheld for Privacy ehf",
+                "Tech Phone": "+354.4212434",
+                "Tech Fax": "Tech Fax Ext: ",
+                "Tech Email": "844de8a0e93b49afa3d01967cb20c872.protect@withheldforprivacy.com",
+                "Name Server": [
+                    "ns-463.awsdns-57.com",
+                    "ns-1031.awsdns-00.org",
+                    "NS-463.AWSDNS-57.COM",
+                    "ns-1845.awsdns-38.co.uk",
+                    "ns-904.awsdns-49.net",
+                    "NS-904.AWSDNS-49.NET",
+                    "NS-1031.AWSDNS-00.ORG",
+                    "NS-1845.AWSDNS-38.CO.UK"
+                ]
+            }
+        },
+        "avnf.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.fastdomain.com",
+                "Registrar": "FastDomain Inc.",
+                "Registrar IANA ID": "1154",
+                "Registry Domain ID": [
+                    "74826347_DOMAIN_COM-VRSN",
+                    "Registrar WHOIS Server: whois.fastdomain.com"
+                ],
+                "Registrant Organization": "JOHN HOOD",
+                "Registrant Phone": "+1.8473734965",
+                "Registrant Fax": "Registrant Fax Ext: ",
+                "Registrant Email": "JOE@DUNESDIST.COM",
+                "Admin Organization": "JOHN HOOD",
+                "Admin Phone": "+1.8473734965",
+                "Admin Fax": "Admin Fax Ext: ",
+                "Admin Email": "JOE@DUNESDIST.COM",
+                "Tech Organization": "BLUEHOST.COM",
+                "Tech Phone": "+1.8017659400",
+                "Tech Fax": "+1.8017651992",
+                "Tech Email": "whois@bluehost.com",
+                "Name Server": [
+                    "NS2.BLUEHOST.COM",
+                    "NS1.BLUEHOST.COM"
+                ]
+            }
+        },
+        "applestudenttours.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.networksolutions.com",
+                "Registrar": "Network Solutions, LLC",
+                "Registrar IANA ID": "2",
+                "Registry Domain ID": "1822239093_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Registrant Street: 5335 Gate Parkway care of Network Solutions PO Box 459",
+                "Registrant Phone": "+1.5707088622",
+                "Registrant Fax": "Registrant Fax Ext: ",
+                "Registrant Email": "a853h4636zf@networksolutionsprivateregistration.com",
+                "Admin Organization": "Admin Street: 5335 Gate Parkway care of Network Solutions PO Box 459",
+                "Admin Phone": "+1.5707088622",
+                "Admin Fax": "Admin Fax Ext: ",
+                "Admin Email": "a853h4636zf@networksolutionsprivateregistration.com",
+                "Tech Organization": "Tech Street: 5335 Gate Parkway care of Network Solutions PO Box 459",
+                "Tech Phone": "+1.5707088622",
+                "Tech Fax": "Tech Fax Ext: ",
+                "Tech Email": "a853h4636zf@networksolutionsprivateregistration.com",
+                "Name Server": [
+                    "NS2.DIGITALOCEAN.COM",
+                    "NS1.DIGITALOCEAN.COM",
+                    "NS3.DIGITALOCEAN.COM"
+                ]
+            }
+        },
+        "applerock.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.godaddy.com",
+                "Registrar": "GoDaddy.com, LLC",
+                "Registrar IANA ID": "146",
+                "Registry Domain ID": "626932_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Domains By Proxy, LLC",
+                "Registrant Phone": "+1.4806242599",
+                "Registrant Fax": "Registrant Fax Ext:",
+                "Registrant Email": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=APPLEROCK.COM",
+                "Admin Organization": "Domains By Proxy, LLC",
+                "Admin Phone": "+1.4806242599",
+                "Admin Fax": "Admin Fax Ext:",
+                "Admin Email": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=APPLEROCK.COM",
+                "Tech Organization": "Domains By Proxy, LLC",
+                "Tech Phone": "+1.4806242599",
+                "Tech Fax": "Tech Fax Ext:",
+                "Tech Email": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=APPLEROCK.COM",
+                "Name Server": [
+                    "NS29.DOMAINCONTROL.COM",
+                    "NS30.DOMAINCONTROL.COM"
+                ]
+            }
+        },
+        "yadomonogatari.jp": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": null,
+                "Registrar": null,
+                "Registrar IANA ID": null,
+                "Registry Domain ID": null,
+                "Registrant Organization": null,
+                "Registrant Phone": null,
+                "Registrant Fax": null,
+                "Registrant Email": null,
+                "Admin Organization": null,
+                "Admin Phone": null,
+                "Admin Fax": null,
+                "Admin Email": null,
+                "Tech Organization": null,
+                "Tech Phone": null,
+                "Tech Fax": null,
+                "Tech Email": null,
+                "Name Server": null
+            }
+        },
+        "FileMaker.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.markmonitor.com",
+                "Registrar": [
+                    "MarkMonitor, Inc.",
+                    "MarkMonitor Inc."
+                ],
+                "Registrar IANA ID": "292",
+                "Registry Domain ID": "2327289_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Claris International Inc",
+                "Registrant Phone": null,
+                "Registrant Fax": null,
+                "Registrant Email": "Select Request Email Form at https://domains.markmonitor.com/whois/filemaker.com",
+                "Admin Organization": "Claris International Inc",
+                "Admin Phone": null,
+                "Admin Fax": null,
+                "Admin Email": "Select Request Email Form at https://domains.markmonitor.com/whois/filemaker.com",
+                "Tech Organization": "Claris International Inc",
+                "Tech Phone": null,
+                "Tech Fax": null,
+                "Tech Email": "Select Request Email Form at https://domains.markmonitor.com/whois/filemaker.com",
+                "Name Server": [
+                    "b.ns.apple.com",
+                    "d.ns.apple.com",
+                    "B.NS.APPLE.COM",
+                    "C.NS.APPLE.COM",
+                    "c.ns.apple.com",
+                    "a.ns.apple.com",
+                    "D.NS.APPLE.COM",
+                    "A.NS.APPLE.COM"
+                ]
+            }
+        },
+        "co.jp": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": null,
+                "Registrar": null,
+                "Registrar IANA ID": null,
+                "Registry Domain ID": null,
+                "Registrant Organization": null,
+                "Registrant Phone": null,
+                "Registrant Fax": null,
+                "Registrant Email": null,
+                "Admin Organization": null,
+                "Admin Phone": null,
+                "Admin Fax": null,
+                "Admin Email": null,
+                "Tech Organization": null,
+                "Tech Phone": null,
+                "Tech Fax": null,
+                "Tech Email": null,
+                "Name Server": null
+            }
+        },
+        "iwork.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.comlaude.com",
+                "Registrar": [
+                    "NOM-IQ Ltd dba Com Laude",
+                    "Nom-iq Ltd. dba COM LAUDE"
+                ],
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "1043142_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "iwork.com-Registrant@anonymised.email",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "iwork.com-Admin@anonymised.email",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "iwork.com-Tech@anonymised.email",
+                "Name Server": [
+                    "b.ns.apple.com",
+                    "d.ns.apple.com",
+                    "B.NS.APPLE.COM",
+                    "C.NS.APPLE.COM",
+                    "c.ns.apple.com",
+                    "a.ns.apple.com",
+                    "D.NS.APPLE.COM",
+                    "A.NS.APPLE.COM"
+                ]
+            }
+        },
+        "beatsbydre.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.comlaude.com",
+                "Registrar": [
+                    "NOM-IQ Ltd dba Com Laude",
+                    "Nom-iq Ltd. dba COM LAUDE"
+                ],
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "627714168_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Beats By Dr. Dre",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "beatsbydre.com-Registrant@anonymised.email",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "beatsbydre.com-Admin@anonymised.email",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "beatsbydre.com-Tech@anonymised.email",
+                "Name Server": [
+                    "b.ns.apple.com",
+                    "d.ns.apple.com",
+                    "B.NS.APPLE.COM",
+                    "C.NS.APPLE.COM",
+                    "c.ns.apple.com",
+                    "a.ns.apple.com",
+                    "D.NS.APPLE.COM",
+                    "A.NS.APPLE.COM"
+                ]
+            }
+        },
+        "cups.org": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "http://whois.comlaude.com",
+                "Registrar": "Nom-iq Ltd. dba COM LAUDE",
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "d308c9799d0f468192995af599573003-LROR",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+                "Name Server": [
+                    "a.ns.apple.com",
+                    "c.ns.apple.com",
+                    "b.ns.apple.com",
+                    "d.ns.apple.com"
+                ]
+            }
+        },
+        "cdn-apple.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.comlaude.com",
+                "Registrar": [
+                    "NOM-IQ Ltd dba Com Laude",
+                    "Nom-iq Ltd. dba COM LAUDE"
+                ],
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "1623820299_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "cdn-apple.com-Registrant@anonymised.email",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "cdn-apple.com-Admin@anonymised.email",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "cdn-apple.com-Tech@anonymised.email",
+                "Name Server": [
+                    "b.ns.apple.com",
+                    "d.ns.apple.com",
+                    "B.NS.APPLE.COM",
+                    "C.NS.APPLE.COM",
+                    "c.ns.apple.com",
+                    "a.ns.apple.com",
+                    "D.NS.APPLE.COM",
+                    "A.NS.APPLE.COM"
+                ]
+            }
+        },
+        "applevacations.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.networksolutions.com",
+                "Registrar": "Network Solutions, LLC",
+                "Registrar IANA ID": "2",
+                "Registry Domain ID": "514291_DOMAIN_COM-VRSN",
+                "Registrant Organization": "The Coryn Group II, Inc",
+                "Registrant Phone": "+1.8007273550",
+                "Registrant Fax": "Registrant Fax Ext: ",
+                "Registrant Email": "coryntech@applevac.com",
+                "Admin Organization": "The Coryn Group II, Inc",
+                "Admin Phone": "+1.8007273550",
+                "Admin Fax": "Admin Fax Ext: ",
+                "Admin Email": "coryntech@applevac.com",
+                "Tech Organization": "The Coryn Group II, Inc",
+                "Tech Phone": "+1.8007273550",
+                "Tech Fax": "Tech Fax Ext: ",
+                "Tech Email": "coryntech@applevac.com",
+                "Name Server": [
+                    "NS1-03.AZURE-DNS.COM",
+                    "NS4-03.AZURE-DNS.INFO",
+                    "NS2-03.AZURE-DNS.NET",
+                    "NS3-03.AZURE-DNS.ORG"
+                ]
+            }
+        },
+        "paulteeter.net": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.tucows.com",
+                "Registrar": [
+                    "Tucows Domains Inc.",
+                    "TUCOWS, INC."
+                ],
+                "Registrar IANA ID": "69",
+                "Registry Domain ID": "61821103_DOMAIN_NET-VRSN",
+                "Registrant Organization": "REDACTED FOR PRIVACY",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "https://tieredaccess.com/contact/3e01c45f-a5dc-42b5-947c-b967c51b0218",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "REDACTED FOR PRIVACY",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "REDACTED FOR PRIVACY",
+                "Name Server": [
+                    "ns1.hover.com",
+                    "ns3.hover.com",
+                    "NS1.HOVER.COM",
+                    "ns2.hover.com",
+                    "NS2.HOVER.COM",
+                    "NS3.HOVER.COM"
+                ]
+            }
+        },
+        "itunesfestival.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.comlaude.com",
+                "Registrar": [
+                    "NOM-IQ Ltd dba Com Laude",
+                    "Nom-iq Ltd. dba COM LAUDE"
+                ],
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "943214730_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "itunesfestival.com-Registrant@anonymised.email",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "itunesfestival.com-Admin@anonymised.email",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "itunesfestival.com-Tech@anonymised.email",
+                "Name Server": [
+                    "b.ns.apple.com",
+                    "d.ns.apple.com",
+                    "B.NS.APPLE.COM",
+                    "C.NS.APPLE.COM",
+                    "c.ns.apple.com",
+                    "a.ns.apple.com",
+                    "D.NS.APPLE.COM",
+                    "A.NS.APPLE.COM"
+                ]
+            }
+        },
+        "firstapple.net": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.godaddy.com",
+                "Registrar": "GoDaddy.com, LLC",
+                "Registrar IANA ID": "146",
+                "Registry Domain ID": "1956967305_DOMAIN_NET-VRSN",
+                "Registrant Organization": "Domains By Proxy, LLC",
+                "Registrant Phone": "+1.4806242599",
+                "Registrant Fax": "Registrant Fax Ext:",
+                "Registrant Email": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=firstapple.net",
+                "Admin Organization": "Domains By Proxy, LLC",
+                "Admin Phone": "+1.4806242599",
+                "Admin Fax": "Admin Fax Ext:",
+                "Admin Email": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=firstapple.net",
+                "Tech Organization": "Domains By Proxy, LLC",
+                "Tech Phone": "+1.4806242599",
+                "Tech Fax": "Tech Fax Ext:",
+                "Tech Email": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=firstapple.net",
+                "Name Server": [
+                    "NS75.DOMAINCONTROL.COM",
+                    "NS76.DOMAINCONTROL.COM"
+                ]
+            }
+        },
+        "applepodcasts.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.comlaude.com",
+                "Registrar": [
+                    "NOM-IQ Ltd dba Com Laude",
+                    "Nom-iq Ltd. dba COM LAUDE"
+                ],
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "1956067883_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "applepodcasts.com-Registrant@anonymised.email",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "applepodcasts.com-Admin@anonymised.email",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "applepodcasts.com-Tech@anonymised.email",
+                "Name Server": [
+                    "b.ns.apple.com",
+                    "d.ns.apple.com",
+                    "B.NS.APPLE.COM",
+                    "C.NS.APPLE.COM",
+                    "c.ns.apple.com",
+                    "a.ns.apple.com",
+                    "D.NS.APPLE.COM",
+                    "A.NS.APPLE.COM"
+                ]
+            }
+        },
+        "icloud-content.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.comlaude.com",
+                "Registrar": [
+                    "NOM-IQ Ltd dba Com Laude",
+                    "Nom-iq Ltd. dba COM LAUDE"
+                ],
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "1882560918_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "icloud-content.com-Registrant@anonymised.email",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "icloud-content.com-Admin@anonymised.email",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "icloud-content.com-Tech@anonymised.email",
+                "Name Server": [
+                    "b.ns.apple.com",
+                    "d.ns.apple.com",
+                    "B.NS.APPLE.COM",
+                    "C.NS.APPLE.COM",
+                    "c.ns.apple.com",
+                    "a.ns.apple.com",
+                    "D.NS.APPLE.COM",
+                    "A.NS.APPLE.COM"
+                ]
+            }
+        },
+        "applesauceincjobs.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": null,
+                "Registrar": null,
+                "Registrar IANA ID": null,
+                "Registry Domain ID": null,
+                "Registrant Organization": null,
+                "Registrant Phone": null,
+                "Registrant Fax": null,
+                "Registrant Email": null,
+                "Admin Organization": null,
+                "Admin Phone": null,
+                "Admin Fax": null,
+                "Admin Email": null,
+                "Tech Organization": null,
+                "Tech Phone": null,
+                "Tech Fax": null,
+                "Tech Email": null,
+                "Name Server": null
+            }
+        },
+        "apple-mapkit.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.comlaude.com",
+                "Registrar": [
+                    "NOM-IQ Ltd dba Com Laude",
+                    "Nom-iq Ltd. dba COM LAUDE"
+                ],
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "1838180620_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "apple-mapkit.com-Registrant@anonymised.email",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "apple-mapkit.com-Admin@anonymised.email",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "apple-mapkit.com-Tech@anonymised.email",
+                "Name Server": [
+                    "b.ns.apple.com",
+                    "d.ns.apple.com",
+                    "B.NS.APPLE.COM",
+                    "C.NS.APPLE.COM",
+                    "c.ns.apple.com",
+                    "a.ns.apple.com",
+                    "D.NS.APPLE.COM",
+                    "A.NS.APPLE.COM"
+                ]
+            }
+        },
+        "applemusicfestival.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.comlaude.com",
+                "Registrar": [
+                    "NOM-IQ Ltd dba Com Laude",
+                    "Nom-iq Ltd. dba COM LAUDE"
+                ],
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "1951121161_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "applemusicfestival.com-Registrant@anonymised.email",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "applemusicfestival.com-Admin@anonymised.email",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "applemusicfestival.com-Tech@anonymised.email",
+                "Name Server": [
+                    "b.ns.apple.com",
+                    "d.ns.apple.com",
+                    "B.NS.APPLE.COM",
+                    "C.NS.APPLE.COM",
+                    "c.ns.apple.com",
+                    "a.ns.apple.com",
+                    "D.NS.APPLE.COM",
+                    "A.NS.APPLE.COM"
+                ]
+            }
+        },
+        "appletransportationinc.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.namerider.com",
+                "Registrar": "Domain Science Kutatasi Szolgaltato Korlatolt Felelossegu Tarsasag",
+                "Registrar IANA ID": "3882",
+                "Registry Domain ID": "2824005006_DOMAIN_COM-VRSN",
+                "Registrant Organization": null,
+                "Registrant Phone": null,
+                "Registrant Fax": null,
+                "Registrant Email": null,
+                "Admin Organization": null,
+                "Admin Phone": null,
+                "Admin Fax": null,
+                "Admin Email": null,
+                "Tech Organization": null,
+                "Tech Phone": null,
+                "Tech Fax": null,
+                "Tech Email": null,
+                "Name Server": [
+                    "NS2.BODIS.COM",
+                    "NS1.BODIS.COM"
+                ]
+            }
+        },
+        "itunes12days.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.comlaude.com",
+                "Registrar": [
+                    "NOM-IQ Ltd dba Com Laude",
+                    "Nom-iq Ltd. dba COM LAUDE"
+                ],
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "1527189329_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "itunes12days.com-Registrant@anonymised.email",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "itunes12days.com-Admin@anonymised.email",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "itunes12days.com-Tech@anonymised.email",
+                "Name Server": [
+                    "b.ns.apple.com",
+                    "d.ns.apple.com",
+                    "B.NS.APPLE.COM",
+                    "C.NS.APPLE.COM",
+                    "c.ns.apple.com",
+                    "a.ns.apple.com",
+                    "D.NS.APPLE.COM",
+                    "A.NS.APPLE.COM"
+                ]
+            }
+        },
+        "com.au": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "http://whois.auda.org.au",
+                "Registrar": null,
+                "Registrar IANA ID": null,
+                "Registry Domain ID": "7d944936a76b46eb8939d11993fbdf61-AU",
+                "Registrant Organization": null,
+                "Registrant Phone": null,
+                "Registrant Fax": null,
+                "Registrant Email": null,
+                "Admin Organization": null,
+                "Admin Phone": null,
+                "Admin Fax": null,
+                "Admin Email": null,
+                "Tech Organization": null,
+                "Tech Phone": null,
+                "Tech Fax": null,
+                "Tech Email": null,
+                "Name Server": [
+                    "t.au",
+                    "r.au",
+                    "s.au",
+                    "q.au",
+                    "a.au"
+                ]
+            }
+        },
+        "appleschoolcontent.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.comlaude.com",
+                "Registrar": [
+                    "NOM-IQ Ltd dba Com Laude",
+                    "Nom-iq Ltd. dba COM LAUDE"
+                ],
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "2047392757_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "appleschoolcontent.com-Registrant@anonymised.email",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "appleschoolcontent.com-Admin@anonymised.email",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "appleschoolcontent.com-Tech@anonymised.email",
+                "Name Server": [
+                    "b.ns.apple.com",
+                    "d.ns.apple.com",
+                    "B.NS.APPLE.COM",
+                    "C.NS.APPLE.COM",
+                    "c.ns.apple.com",
+                    "a.ns.apple.com",
+                    "D.NS.APPLE.COM",
+                    "A.NS.APPLE.COM"
+                ]
+            }
+        },
+        "mzstatic.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.comlaude.com",
+                "Registrar": [
+                    "NOM-IQ Ltd dba Com Laude",
+                    "Nom-iq Ltd. dba COM LAUDE"
+                ],
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "1606201199_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "mzstatic.com-Registrant@anonymised.email",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "mzstatic.com-Admin@anonymised.email",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "mzstatic.com-Tech@anonymised.email",
+                "Name Server": [
+                    "b.ns.apple.com",
+                    "d.ns.apple.com",
+                    "B.NS.APPLE.COM",
+                    "C.NS.APPLE.COM",
+                    "c.ns.apple.com",
+                    "a.ns.apple.com",
+                    "D.NS.APPLE.COM",
+                    "A.NS.APPLE.COM"
+                ]
+            }
+        },
+        "applesurveys.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.comlaude.com",
+                "Registrar": [
+                    "NOM-IQ Ltd dba Com Laude",
+                    "Nom-iq Ltd. dba COM LAUDE"
+                ],
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "1291918616_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "applesurveys.com-Registrant@anonymised.email",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "applesurveys.com-Admin@anonymised.email",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "applesurveys.com-Tech@anonymised.email",
+                "Name Server": [
+                    "b.ns.apple.com",
+                    "d.ns.apple.com",
+                    "B.NS.APPLE.COM",
+                    "C.NS.APPLE.COM",
+                    "c.ns.apple.com",
+                    "a.ns.apple.com",
+                    "D.NS.APPLE.COM",
+                    "A.NS.APPLE.COM"
+                ]
+            }
+        },
+        "dcerpc.org": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "http://whois.comlaude.com",
+                "Registrar": "Nom-iq Ltd. dba COM LAUDE",
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "a7e86bcfc8f0406bac1923a1e2797c0e-LROR",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+                "Name Server": [
+                    "a.ns.apple.com",
+                    "c.ns.apple.com",
+                    "b.ns.apple.com",
+                    "d.ns.apple.com"
+                ]
+            }
+        },
+        "bobmccutcheon.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.godaddy.com",
+                "Registrar": "GoDaddy.com, LLC",
+                "Registrar IANA ID": "146",
+                "Registry Domain ID": "84027708_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Domains By Proxy, LLC",
+                "Registrant Phone": "+1.4806242599",
+                "Registrant Fax": "Registrant Fax Ext:",
+                "Registrant Email": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=bobmccutcheon.com",
+                "Admin Organization": "Domains By Proxy, LLC",
+                "Admin Phone": "+1.4806242599",
+                "Admin Fax": "Admin Fax Ext:",
+                "Admin Email": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=bobmccutcheon.com",
+                "Tech Organization": "Domains By Proxy, LLC",
+                "Tech Phone": "+1.4806242599",
+                "Tech Fax": "Tech Fax Ext:",
+                "Tech Email": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=bobmccutcheon.com",
+                "Name Server": [
+                    "NS37.DOMAINCONTROL.COM",
+                    "NS38.DOMAINCONTROL.COM"
+                ]
+            }
+        },
+        "aaplimg.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.comlaude.com",
+                "Registrar": [
+                    "NOM-IQ Ltd dba Com Laude",
+                    "Nom-iq Ltd. dba COM LAUDE"
+                ],
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "1802986356_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "aaplimg.com-Registrant@anonymised.email",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "aaplimg.com-Admin@anonymised.email",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "aaplimg.com-Tech@anonymised.email",
+                "Name Server": [
+                    "b.ns.apple.com",
+                    "d.ns.apple.com",
+                    "B.NS.APPLE.COM",
+                    "C.NS.APPLE.COM",
+                    "c.ns.apple.com",
+                    "a.ns.apple.com",
+                    "D.NS.APPLE.COM",
+                    "A.NS.APPLE.COM"
+                ]
+            }
+        },
+        "sabf.org": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.networksolutions.com",
+                "Registrar": "Network Solutions, LLC",
+                "Registrar IANA ID": "2",
+                "Registry Domain ID": "38306382c819484ab129699f9cafe7cf-LROR",
+                "Registrant Organization": "Tech Team Solutions, LLC",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+                "Name Server": [
+                    "ns15.worldnic.com",
+                    "ns16.worldnic.com"
+                ]
+            }
+        },
+        "qwapi.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.comlaude.com",
+                "Registrar": [
+                    "NOM-IQ Ltd dba Com Laude",
+                    "Nom-iq Ltd. dba COM LAUDE"
+                ],
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "635564397_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "qwapi.com-Registrant@anonymised.email",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "qwapi.com-Admin@anonymised.email",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "qwapi.com-Tech@anonymised.email",
+                "Name Server": [
+                    "b.ns.apple.com",
+                    "d.ns.apple.com",
+                    "B.NS.APPLE.COM",
+                    "C.NS.APPLE.COM",
+                    "c.ns.apple.com",
+                    "a.ns.apple.com",
+                    "D.NS.APPLE.COM",
+                    "A.NS.APPLE.COM"
+                ]
+            }
+        },
+        "catart.jp": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": null,
+                "Registrar": null,
+                "Registrar IANA ID": null,
+                "Registry Domain ID": null,
+                "Registrant Organization": null,
+                "Registrant Phone": null,
+                "Registrant Fax": null,
+                "Registrant Email": null,
+                "Admin Organization": null,
+                "Admin Phone": null,
+                "Admin Fax": null,
+                "Admin Email": null,
+                "Tech Organization": null,
+                "Tech Phone": null,
+                "Tech Fax": null,
+                "Tech Email": null,
+                "Name Server": null
+            }
+        },
+        "macruby.org": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "http://whois.comlaude.com",
+                "Registrar": "Nom-iq Ltd. dba COM LAUDE",
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "a61a508a8a2b4923b08683de56234bd3-LROR",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+                "Name Server": [
+                    "a.ns.apple.com",
+                    "c.ns.apple.com",
+                    "b.ns.apple.com",
+                    "d.ns.apple.com"
+                ]
+            }
+        },
+        "applerepairclub.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.namecheap.com",
+                "Registrar": [
+                    "NAMECHEAP INC",
+                    "NameCheap, Inc."
+                ],
+                "Registrar IANA ID": "1068",
+                "Registry Domain ID": "1893844524_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Privacy service provided by Withheld for Privacy ehf",
+                "Registrant Phone": "+354.4212434",
+                "Registrant Fax": "Registrant Fax Ext: ",
+                "Registrant Email": "3e31d206ef3b4eacb920b13a8767707a.protect@withheldforprivacy.com",
+                "Admin Organization": "Privacy service provided by Withheld for Privacy ehf",
+                "Admin Phone": "+354.4212434",
+                "Admin Fax": "Admin Fax Ext: ",
+                "Admin Email": "3e31d206ef3b4eacb920b13a8767707a.protect@withheldforprivacy.com",
+                "Tech Organization": "Privacy service provided by Withheld for Privacy ehf",
+                "Tech Phone": "+354.4212434",
+                "Tech Fax": "Tech Fax Ext: ",
+                "Tech Email": "3e31d206ef3b4eacb920b13a8767707a.protect@withheldforprivacy.com",
+                "Name Server": [
+                    "cdns.ovh.net",
+                    "ns2.blocks.link",
+                    "vps-bb9538c7.vps.ovh.us",
+                    "NS1.BLOCKS.LINK",
+                    "CDNS.OVH.NET",
+                    "VPS-BB9538C7.VPS.OVH.US",
+                    "ns1.blocks.link",
+                    "NS2.BLOCKS.LINK"
+                ]
+            }
+        },
+        "beatsmusic.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.comlaude.com",
+                "Registrar": [
+                    "NOM-IQ Ltd dba Com Laude",
+                    "Nom-iq Ltd. dba COM LAUDE"
+                ],
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "130240489_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Beats By Dr. Dre",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "beatsmusic.com-Registrant@anonymised.email",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "beatsmusic.com-Admin@anonymised.email",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "beatsmusic.com-Tech@anonymised.email",
+                "Name Server": [
+                    "b.ns.apple.com",
+                    "d.ns.apple.com",
+                    "B.NS.APPLE.COM",
+                    "C.NS.APPLE.COM",
+                    "c.ns.apple.com",
+                    "a.ns.apple.com",
+                    "D.NS.APPLE.COM",
+                    "A.NS.APPLE.COM"
+                ]
+            }
+        },
+        "appleboxs.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.godaddy.com",
+                "Registrar": "GoDaddy.com, LLC",
+                "Registrar IANA ID": "146",
+                "Registry Domain ID": "86003348_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Domains By Proxy, LLC",
+                "Registrant Phone": "+1.4806242599",
+                "Registrant Fax": "Registrant Fax Ext:",
+                "Registrant Email": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=appleboxs.com",
+                "Admin Organization": "Domains By Proxy, LLC",
+                "Admin Phone": "+1.4806242599",
+                "Admin Fax": "Admin Fax Ext:",
+                "Admin Email": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=appleboxs.com",
+                "Tech Organization": "Domains By Proxy, LLC",
+                "Tech Phone": "+1.4806242599",
+                "Tech Fax": "Tech Fax Ext:",
+                "Tech Email": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=appleboxs.com",
+                "Name Server": [
+                    "NS57.DOMAINCONTROL.COM",
+                    "NS58.DOMAINCONTROL.COM"
+                ]
+            }
+        },
+        "applereit.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.godaddy.com",
+                "Registrar": "GoDaddy.com, LLC",
+                "Registrar IANA ID": "146",
+                "Registry Domain ID": "74898535_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Domains By Proxy, LLC",
+                "Registrant Phone": "+1.4806242599",
+                "Registrant Fax": "Registrant Fax Ext:",
+                "Registrant Email": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=APPLEREIT.COM",
+                "Admin Organization": "Domains By Proxy, LLC",
+                "Admin Phone": "+1.4806242599",
+                "Admin Fax": "Admin Fax Ext:",
+                "Admin Email": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=APPLEREIT.COM",
+                "Tech Organization": "Domains By Proxy, LLC",
+                "Tech Phone": "+1.4806242599",
+                "Tech Fax": "Tech Fax Ext:",
+                "Tech Email": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=APPLEREIT.COM",
+                "Name Server": [
+                    "NS50.DOMAINCONTROL.COM",
+                    "NS49.DOMAINCONTROL.COM"
+                ]
+            }
+        },
+        "clientforum.net": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.godaddy.com",
+                "Registrar": "GoDaddy.com, LLC",
+                "Registrar IANA ID": "146",
+                "Registry Domain ID": "2831670137_DOMAIN_NET-VRSN",
+                "Registrant Organization": null,
+                "Registrant Phone": null,
+                "Registrant Fax": null,
+                "Registrant Email": null,
+                "Admin Organization": null,
+                "Admin Phone": null,
+                "Admin Fax": null,
+                "Admin Email": null,
+                "Tech Organization": null,
+                "Tech Phone": null,
+                "Tech Fax": null,
+                "Tech Email": null,
+                "Name Server": [
+                    "NS1.THEDNSCLOUD.COM",
+                    "NS2.THEDNSCLOUD.COM"
+                ]
+            }
+        },
+        "com.cn": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": null,
+                "Registrar": null,
+                "Registrar IANA ID": null,
+                "Registry Domain ID": null,
+                "Registrant Organization": null,
+                "Registrant Phone": null,
+                "Registrant Fax": null,
+                "Registrant Email": null,
+                "Admin Organization": null,
+                "Admin Phone": null,
+                "Admin Fax": null,
+                "Admin Email": null,
+                "Tech Organization": null,
+                "Tech Phone": null,
+                "Tech Fax": null,
+                "Tech Email": null,
+                "Name Server": null
+            }
+        },
+        "leanbackoffice.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.dynadot.com",
+                "Registrar": [
+                    "Dynadot Inc",
+                    "DYNADOT LLC"
+                ],
+                "Registrar IANA ID": "472",
+                "Registry Domain ID": "2745929598_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Super Privacy Service LTD c/o Dynadot",
+                "Registrant Phone": "+1.6505854708",
+                "Registrant Fax": null,
+                "Registrant Email": "https://www.dynadot.com/domain/contact-request?domain=leanbackoffice.com",
+                "Admin Organization": "Super Privacy Service LTD c/o Dynadot",
+                "Admin Phone": "+1.6505854708",
+                "Admin Fax": null,
+                "Admin Email": "https://www.dynadot.com/domain/contact-request?domain=leanbackoffice.com",
+                "Tech Organization": "Super Privacy Service LTD c/o Dynadot",
+                "Tech Phone": "+1.6505854708",
+                "Tech Fax": null,
+                "Tech Email": "https://www.dynadot.com/domain/contact-request?domain=leanbackoffice.com",
+                "Name Server": [
+                    "NS4.CSOF.NET",
+                    "ns1.csof.net",
+                    "ns2.csof.net",
+                    "ns3.csof.net",
+                    "NS3.CSOF.NET",
+                    "NS1.CSOF.NET",
+                    "NS2.CSOF.NET",
+                    "ns4.csof.net"
+                ]
+            }
+        },
+        "profitmongers.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.dynadot.com",
+                "Registrar": [
+                    "Dynadot Inc",
+                    "DYNADOT LLC"
+                ],
+                "Registrar IANA ID": "472",
+                "Registry Domain ID": "1566626335_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Super Privacy Service LTD c/o Dynadot",
+                "Registrant Phone": "+1.6505854708",
+                "Registrant Fax": null,
+                "Registrant Email": "https://www.dynadot.com/domain/contact-request?domain=profitmongers.com",
+                "Admin Organization": "Super Privacy Service LTD c/o Dynadot",
+                "Admin Phone": "+1.6505854708",
+                "Admin Fax": null,
+                "Admin Email": "https://www.dynadot.com/domain/contact-request?domain=profitmongers.com",
+                "Tech Organization": "Super Privacy Service LTD c/o Dynadot",
+                "Tech Phone": "+1.6505854708",
+                "Tech Fax": null,
+                "Tech Email": "https://www.dynadot.com/domain/contact-request?domain=profitmongers.com",
+                "Name Server": [
+                    "RENT.PREMIUM-DOMAIN-NAMES.COM",
+                    "BUY.PREMIUM-DOMAIN-NAMES.COM",
+                    "rent.premium-domain-names.com",
+                    "buy.premium-domain-names.com"
+                ]
+            }
+        },
+        "appleshedonline.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": null,
+                "Registrar": null,
+                "Registrar IANA ID": null,
+                "Registry Domain ID": null,
+                "Registrant Organization": null,
+                "Registrant Phone": null,
+                "Registrant Fax": null,
+                "Registrant Email": null,
+                "Admin Organization": null,
+                "Admin Phone": null,
+                "Admin Fax": null,
+                "Admin Email": null,
+                "Tech Organization": null,
+                "Tech Phone": null,
+                "Tech Fax": null,
+                "Tech Email": null,
+                "Name Server": null
+            }
+        },
+        "avature.net": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.brandsight.com",
+                "Registrar": "GoDaddy Corporate Domains, LLC",
+                "Registrar IANA ID": "3786",
+                "Registry Domain ID": "110051956_DOMAIN_NET-VRSN",
+                "Registrant Organization": null,
+                "Registrant Phone": null,
+                "Registrant Fax": null,
+                "Registrant Email": null,
+                "Admin Organization": null,
+                "Admin Phone": null,
+                "Admin Fax": null,
+                "Admin Email": null,
+                "Tech Organization": null,
+                "Tech Phone": null,
+                "Tech Fax": null,
+                "Tech Email": null,
+                "Name Server": [
+                    "NS-753.AWSDNS-30.NET",
+                    "NS-440.AWSDNS-55.COM",
+                    "NS-1066.AWSDNS-05.ORG",
+                    "NS-1704.AWSDNS-21.CO.UK"
+                ]
+            }
+        },
+        "aisforappleinc.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.tucows.com",
+                "Registrar": [
+                    "Tucows Domains Inc.",
+                    "TUCOWS, INC."
+                ],
+                "Registrar IANA ID": "69",
+                "Registry Domain ID": "1637224152_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Contact Privacy Inc. Customer 0152236219",
+                "Registrant Phone": "+1.4165385457",
+                "Registrant Fax": "Registrant Fax Ext: ",
+                "Registrant Email": "aisforappleinc.com@contactprivacy.com",
+                "Admin Organization": "Contact Privacy Inc. Customer 0152236219",
+                "Admin Phone": "+1.4165385457",
+                "Admin Fax": "Admin Fax Ext: ",
+                "Admin Email": "aisforappleinc.com@contactprivacy.com",
+                "Tech Organization": "Contact Privacy Inc. Customer 0152236219",
+                "Tech Phone": "+1.4165385457",
+                "Tech Fax": "Tech Fax Ext: ",
+                "Tech Email": "aisforappleinc.com@contactprivacy.com",
+                "Name Server": [
+                    "DNS3.ZONEEDIT.COM",
+                    "DNS2.ZONEEDIT.COM",
+                    "DNS1.ZONEEDIT.COM",
+                    "dns2.zoneedit.com",
+                    "dns1.zoneedit.com",
+                    "dns3.zoneedit.com"
+                ]
+            }
+        },
+        "bigapplebarbecueonline.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.godaddy.com",
+                "Registrar": "GoDaddy.com, LLC",
+                "Registrar IANA ID": "146",
+                "Registry Domain ID": "1703730950_DOMAIN_COM-VRSN",
+                "Registrant Organization": null,
+                "Registrant Phone": null,
+                "Registrant Fax": null,
+                "Registrant Email": null,
+                "Admin Organization": null,
+                "Admin Phone": null,
+                "Admin Fax": null,
+                "Admin Email": null,
+                "Tech Organization": null,
+                "Tech Phone": null,
+                "Tech Fax": null,
+                "Tech Email": null,
+                "Name Server": [
+                    "NS29.DOMAINCONTROL.COM",
+                    "NS30.DOMAINCONTROL.COM"
+                ]
+            }
+        },
+        "apple.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.comlaude.com",
+                "Registrar": [
+                    "NOM-IQ Ltd dba Com Laude",
+                    "Nom-iq Ltd. dba COM LAUDE"
+                ],
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "1225976_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "apple.com-Registrant@anonymised.email",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "apple.com-Admin@anonymised.email",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "apple.com-Tech@anonymised.email",
+                "Name Server": [
+                    "b.ns.apple.com",
+                    "d.ns.apple.com",
+                    "B.NS.APPLE.COM",
+                    "C.NS.APPLE.COM",
+                    "c.ns.apple.com",
+                    "a.ns.apple.com",
+                    "D.NS.APPLE.COM",
+                    "A.NS.APPLE.COM"
+                ]
+            }
+        },
+        "redapplestores.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.godaddy.com",
+                "Registrar": "GoDaddy.com, LLC",
+                "Registrar IANA ID": "146",
+                "Registry Domain ID": "1724146475_DOMAIN_COM-VRSN",
+                "Registrant Organization": null,
+                "Registrant Phone": null,
+                "Registrant Fax": null,
+                "Registrant Email": null,
+                "Admin Organization": null,
+                "Admin Phone": null,
+                "Admin Fax": null,
+                "Admin Email": null,
+                "Tech Organization": null,
+                "Tech Phone": null,
+                "Tech Fax": null,
+                "Tech Email": null,
+                "Name Server": [
+                    "AJAY.NS.CLOUDFLARE.COM",
+                    "GINA.NS.CLOUDFLARE.COM"
+                ]
+            }
+        },
+        "applemusic.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.comlaude.com",
+                "Registrar": [
+                    "NOM-IQ Ltd dba Com Laude",
+                    "Nom-iq Ltd. dba COM LAUDE"
+                ],
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "713017_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "applemusic.com-Registrant@anonymised.email",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "applemusic.com-Admin@anonymised.email",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "applemusic.com-Tech@anonymised.email",
+                "Name Server": [
+                    "b.ns.apple.com",
+                    "d.ns.apple.com",
+                    "B.NS.APPLE.COM",
+                    "C.NS.APPLE.COM",
+                    "c.ns.apple.com",
+                    "a.ns.apple.com",
+                    "D.NS.APPLE.COM",
+                    "A.NS.APPLE.COM"
+                ]
+            }
+        },
+        "Apple.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.comlaude.com",
+                "Registrar": [
+                    "NOM-IQ Ltd dba Com Laude",
+                    "Nom-iq Ltd. dba COM LAUDE"
+                ],
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "1225976_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "apple.com-Registrant@anonymised.email",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "apple.com-Admin@anonymised.email",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "apple.com-Tech@anonymised.email",
+                "Name Server": [
+                    "b.ns.apple.com",
+                    "d.ns.apple.com",
+                    "B.NS.APPLE.COM",
+                    "C.NS.APPLE.COM",
+                    "c.ns.apple.com",
+                    "a.ns.apple.com",
+                    "D.NS.APPLE.COM",
+                    "A.NS.APPLE.COM"
+                ]
+            }
+        },
+        "icloud-sandbox.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.comlaude.com",
+                "Registrar": [
+                    "NOM-IQ Ltd dba Com Laude",
+                    "Nom-iq Ltd. dba COM LAUDE"
+                ],
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "1956673245_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "icloud-sandbox.com-Registrant@anonymised.email",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "icloud-sandbox.com-Admin@anonymised.email",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "icloud-sandbox.com-Tech@anonymised.email",
+                "Name Server": [
+                    "b.ns.apple.com",
+                    "d.ns.apple.com",
+                    "B.NS.APPLE.COM",
+                    "C.NS.APPLE.COM",
+                    "c.ns.apple.com",
+                    "a.ns.apple.com",
+                    "D.NS.APPLE.COM",
+                    "A.NS.APPLE.COM"
+                ]
+            }
+        },
+        "apple.media": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.comlaude.com",
+                "Registrar": "Nom-iq Ltd. dba COM LAUDE",
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "b514101258154d509018872f0b751890-DONUTS",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+                "Name Server": [
+                    "a.ns.apple.com",
+                    "c.ns.apple.com",
+                    "b.ns.apple.com",
+                    "d.ns.apple.com"
+                ]
+            }
+        },
+        "uobgroup.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.markmonitor.com",
+                "Registrar": [
+                    "MarkMonitor, Inc.",
+                    "MarkMonitor Inc."
+                ],
+                "Registrar IANA ID": "292",
+                "Registry Domain ID": "9802413_DOMAIN_COM-VRSN",
+                "Registrant Organization": "United Overseas Bank Limited",
+                "Registrant Phone": "+65.18002222121",
+                "Registrant Fax": "Registrant Fax Ext: ",
+                "Registrant Email": "wmds@uobgroup.com",
+                "Admin Organization": "United Overseas Bank Limited",
+                "Admin Phone": null,
+                "Admin Fax": null,
+                "Admin Email": "Select Request Email Form at https://domains.markmonitor.com/whois/uobgroup.com",
+                "Tech Organization": "United Overseas Bank Limited",
+                "Tech Phone": null,
+                "Tech Fax": null,
+                "Tech Email": "Select Request Email Form at https://domains.markmonitor.com/whois/uobgroup.com",
+                "Name Server": [
+                    "NS6.TELSTRAGLOBAL.NET",
+                    "a20-66.akam.net",
+                    "A20-66.AKAM.NET",
+                    "A3-65.AKAM.NET",
+                    "ns6.telstraglobal.net",
+                    "A28-65.AKAM.NET",
+                    "a11-65.akam.net",
+                    "SECDNS.STARHUB.NET.SG",
+                    "A26-67.AKAM.NET",
+                    "A11-65.AKAM.NET",
+                    "a26-67.akam.net",
+                    "a28-65.akam.net",
+                    "A1-207.AKAM.NET",
+                    "a3-65.akam.net",
+                    "a1-207.akam.net",
+                    "secdns.starhub.net.sg"
+                ]
+            }
+        },
+        "macports.org": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.namecheap.com",
+                "Registrar": "NameCheap, Inc.",
+                "Registrar IANA ID": "1068",
+                "Registry Domain ID": "3812cc1133b246bc864b453f1001d5ee-LROR",
+                "Registrant Organization": "MacPorts",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+                "Name Server": [
+                    "dns2.registrar-servers.com",
+                    "dns1.registrar-servers.com"
+                ]
+            }
+        },
+        "bluebellwholesale.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.godaddy.com",
+                "Registrar": "GoDaddy.com, LLC",
+                "Registrar IANA ID": "146",
+                "Registry Domain ID": "337994487_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Domains By Proxy, LLC",
+                "Registrant Phone": "+1.4806242599",
+                "Registrant Fax": "Registrant Fax Ext:",
+                "Registrant Email": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=BLUEBELLWHOLESALE.COM",
+                "Admin Organization": "Domains By Proxy, LLC",
+                "Admin Phone": "+1.4806242599",
+                "Admin Fax": "Admin Fax Ext:",
+                "Admin Email": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=BLUEBELLWHOLESALE.COM",
+                "Tech Organization": "Domains By Proxy, LLC",
+                "Tech Phone": "+1.4806242599",
+                "Tech Fax": "Tech Fax Ext:",
+                "Tech Email": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=BLUEBELLWHOLESALE.COM",
+                "Name Server": [
+                    "NS43.DOMAINCONTROL.COM",
+                    "NS44.DOMAINCONTROL.COM"
+                ]
+            }
+        },
+        "brightapple.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.squarespace.domains",
+                "Registrar": "Squarespace Domains II LLC",
+                "Registrar IANA ID": "895",
+                "Registry Domain ID": "3647934_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Webocreation",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "https://domains.squarespace.com/whois-contact-form",
+                "Admin Organization": "Webocreation",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "https://domains.squarespace.com/whois-contact-form",
+                "Tech Organization": "Webocreation",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "https://domains.squarespace.com/whois-contact-form",
+                "Name Server": [
+                    "NS4.SUPERCP.COM",
+                    "ns1.supercp.com",
+                    "NS3.SUPERCP.COM",
+                    "NS1.SUPERCP.COM",
+                    "NS2.SUPERCP.COM",
+                    "ns4.supercp.com",
+                    "ns2.supercp.com",
+                    "ns3.supercp.com"
+                ]
+            }
+        },
+        "digitalhub.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.comlaude.com",
+                "Registrar": [
+                    "NOM-IQ Ltd dba Com Laude",
+                    "Nom-iq Ltd. dba COM LAUDE"
+                ],
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "68854475_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "digitalhub.com-Registrant@anonymised.email",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "digitalhub.com-Admin@anonymised.email",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "digitalhub.com-Tech@anonymised.email",
+                "Name Server": [
+                    "b.ns.apple.com",
+                    "d.ns.apple.com",
+                    "B.NS.APPLE.COM",
+                    "C.NS.APPLE.COM",
+                    "c.ns.apple.com",
+                    "a.ns.apple.com",
+                    "D.NS.APPLE.COM",
+                    "A.NS.APPLE.COM"
+                ]
+            }
+        },
+        "edgekey.net": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.markmonitor.com",
+                "Registrar": [
+                    "MarkMonitor, Inc.",
+                    "MarkMonitor Inc."
+                ],
+                "Registrar IANA ID": "292",
+                "Registry Domain ID": "78215912_DOMAIN_NET-VRSN",
+                "Registrant Organization": "Akamai Technologies, Inc.",
+                "Registrant Phone": null,
+                "Registrant Fax": null,
+                "Registrant Email": "Select Request Email Form at https://domains.markmonitor.com/whois/edgekey.net",
+                "Admin Organization": "Akamai Technologies, Inc.",
+                "Admin Phone": null,
+                "Admin Fax": null,
+                "Admin Email": "Select Request Email Form at https://domains.markmonitor.com/whois/edgekey.net",
+                "Tech Organization": "Akamai Technologies, Inc.",
+                "Tech Phone": null,
+                "Tech Fax": null,
+                "Tech Email": "Select Request Email Form at https://domains.markmonitor.com/whois/edgekey.net",
+                "Name Server": [
+                    "A12-65.AKAM.NET",
+                    "a10-66.akam.net",
+                    "a18-65.akam.net",
+                    "a1-66.akam.net",
+                    "A28-65.AKAM.NET",
+                    "a6-65.akam.net",
+                    "A6-65.AKAM.NET",
+                    "A7-64.AKAM.NET",
+                    "A16-65.AKAM.NET",
+                    "a12-65.akam.net",
+                    "a28-65.akam.net",
+                    "a7-64.akam.net",
+                    "a16-65.akam.net",
+                    "A18-65.AKAM.NET",
+                    "A1-66.AKAM.NET",
+                    "A10-66.AKAM.NET"
+                ]
+            }
+        },
+        "returnprogramme-apple.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.comlaude.com",
+                "Registrar": [
+                    "NOM-IQ Ltd dba Com Laude",
+                    "Nom-iq Ltd. dba COM LAUDE"
+                ],
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "1652092883_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "returnprogramme-apple.com-Registrant@anonymised.email",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "returnprogramme-apple.com-Admin@anonymised.email",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "returnprogramme-apple.com-Tech@anonymised.email",
+                "Name Server": [
+                    "b.ns.apple.com",
+                    "d.ns.apple.com",
+                    "B.NS.APPLE.COM",
+                    "C.NS.APPLE.COM",
+                    "c.ns.apple.com",
+                    "a.ns.apple.com",
+                    "D.NS.APPLE.COM",
+                    "A.NS.APPLE.COM"
+                ]
+            }
+        },
+        "12dayswidget.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": null,
+                "Registrar": null,
+                "Registrar IANA ID": null,
+                "Registry Domain ID": null,
+                "Registrant Organization": null,
+                "Registrant Phone": null,
+                "Registrant Fax": null,
+                "Registrant Email": null,
+                "Admin Organization": null,
+                "Admin Phone": null,
+                "Admin Fax": null,
+                "Admin Email": null,
+                "Tech Organization": null,
+                "Tech Phone": null,
+                "Tech Fax": null,
+                "Tech Email": null,
+                "Name Server": null
+            }
+        },
+        "pasemi.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.comlaude.com",
+                "Registrar": [
+                    "NOM-IQ Ltd dba Com Laude",
+                    "Nom-iq Ltd. dba COM LAUDE"
+                ],
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "100639513_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "pasemi.com-Registrant@anonymised.email",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "pasemi.com-Admin@anonymised.email",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "pasemi.com-Tech@anonymised.email",
+                "Name Server": [
+                    "b.ns.apple.com",
+                    "d.ns.apple.com",
+                    "B.NS.APPLE.COM",
+                    "C.NS.APPLE.COM",
+                    "c.ns.apple.com",
+                    "a.ns.apple.com",
+                    "D.NS.APPLE.COM",
+                    "A.NS.APPLE.COM"
+                ]
+            }
+        },
+        "me.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.comlaude.com",
+                "Registrar": [
+                    "NOM-IQ Ltd dba Com Laude",
+                    "Nom-iq Ltd. dba COM LAUDE"
+                ],
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "464420_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "me.com-Registrant@anonymised.email",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "me.com-Admin@anonymised.email",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "me.com-Tech@anonymised.email",
+                "Name Server": [
+                    "b.ns.apple.com",
+                    "d.ns.apple.com",
+                    "B.NS.APPLE.COM",
+                    "C.NS.APPLE.COM",
+                    "c.ns.apple.com",
+                    "a.ns.apple.com",
+                    "D.NS.APPLE.COM",
+                    "A.NS.APPLE.COM"
+                ]
+            }
+        },
+        "apple-cloudkit.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.comlaude.com",
+                "Registrar": [
+                    "NOM-IQ Ltd dba Com Laude",
+                    "Nom-iq Ltd. dba COM LAUDE"
+                ],
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "1899011010_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "apple-cloudkit.com-Registrant@anonymised.email",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "apple-cloudkit.com-Admin@anonymised.email",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "apple-cloudkit.com-Tech@anonymised.email",
+                "Name Server": [
+                    "b.ns.apple.com",
+                    "d.ns.apple.com",
+                    "B.NS.APPLE.COM",
+                    "C.NS.APPLE.COM",
+                    "c.ns.apple.com",
+                    "a.ns.apple.com",
+                    "D.NS.APPLE.COM",
+                    "A.NS.APPLE.COM"
+                ]
+            }
+        },
+        "itunes.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.comlaude.com",
+                "Registrar": [
+                    "NOM-IQ Ltd dba Com Laude",
+                    "Nom-iq Ltd. dba COM LAUDE"
+                ],
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "1751645_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "itunes.com-Registrant@anonymised.email",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "itunes.com-Admin@anonymised.email",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "itunes.com-Tech@anonymised.email",
+                "Name Server": [
+                    "b.ns.apple.com",
+                    "d.ns.apple.com",
+                    "B.NS.APPLE.COM",
+                    "C.NS.APPLE.COM",
+                    "c.ns.apple.com",
+                    "a.ns.apple.com",
+                    "D.NS.APPLE.COM",
+                    "A.NS.APPLE.COM"
+                ]
+            }
+        },
+        "appleonline.net": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.comlaude.com",
+                "Registrar": [
+                    "NOM-IQ Ltd dba Com Laude",
+                    "Nom-iq Ltd. dba COM LAUDE"
+                ],
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "4784730_DOMAIN_NET-VRSN",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "appleonline.net-Registrant@anonymised.email",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "appleonline.net-Admin@anonymised.email",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "appleonline.net-Tech@anonymised.email",
+                "Name Server": [
+                    "b.ns.apple.com",
+                    "d.ns.apple.com",
+                    "B.NS.APPLE.COM",
+                    "C.NS.APPLE.COM",
+                    "c.ns.apple.com",
+                    "a.ns.apple.com",
+                    "D.NS.APPLE.COM",
+                    "A.NS.APPLE.COM"
+                ]
+            }
+        },
+        "hopstop.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.comlaude.com",
+                "Registrar": [
+                    "NOM-IQ Ltd dba Com Laude",
+                    "Nom-iq Ltd. dba COM LAUDE"
+                ],
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "86392005_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "hopstop.com-Registrant@anonymised.email",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "hopstop.com-Admin@anonymised.email",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "hopstop.com-Tech@anonymised.email",
+                "Name Server": [
+                    "b.ns.apple.com",
+                    "d.ns.apple.com",
+                    "B.NS.APPLE.COM",
+                    "C.NS.APPLE.COM",
+                    "c.ns.apple.com",
+                    "a.ns.apple.com",
+                    "D.NS.APPLE.COM",
+                    "A.NS.APPLE.COM"
+                ]
+            }
+        },
+        "appleacresfarm.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.godaddy.com",
+                "Registrar": "GoDaddy.com, LLC",
+                "Registrar IANA ID": "146",
+                "Registry Domain ID": "6896769_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Domains By Proxy, LLC",
+                "Registrant Phone": "+1.4806242599",
+                "Registrant Fax": "Registrant Fax Ext:",
+                "Registrant Email": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=appleacresfarm.com",
+                "Admin Organization": "Domains By Proxy, LLC",
+                "Admin Phone": "+1.4806242599",
+                "Admin Fax": "Admin Fax Ext:",
+                "Admin Email": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=appleacresfarm.com",
+                "Tech Organization": "Domains By Proxy, LLC",
+                "Tech Phone": "+1.4806242599",
+                "Tech Fax": "Tech Fax Ext:",
+                "Tech Email": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=appleacresfarm.com",
+                "Name Server": [
+                    "NS40.DOMAINCONTROL.COM",
+                    "NS39.DOMAINCONTROL.COM"
+                ]
+            }
+        },
+        "webkit.org": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "http://whois.comlaude.com",
+                "Registrar": "Nom-iq Ltd. dba COM LAUDE",
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "429148b6def7433ea758f589e5c4a931-LROR",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+                "Name Server": [
+                    "ns-1488.awsdns-58.org",
+                    "ns-334.awsdns-41.com",
+                    "ns-1679.awsdns-17.co.uk",
+                    "ns-920.awsdns-51.net"
+                ]
+            }
+        },
+        "apple.news": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.comlaude.com",
+                "Registrar": "Nom-iq Ltd. dba COM LAUDE",
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "7dabbd179dee4c48b0c82eebe3d1883f-DONUTS",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+                "Name Server": [
+                    "a7-65.akam.net",
+                    "a8-66.akam.net",
+                    "a11-66.akam.net",
+                    "a26-67.akam.net",
+                    "a6-64.akam.net",
+                    "a1-119.akam.net"
+                ]
+            }
+        },
+        "macosforge.org": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "http://whois.comlaude.com",
+                "Registrar": "Nom-iq Ltd. dba COM LAUDE",
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "e6faf91d8ec14c5abd187bd6ac74e65b-LROR",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+                "Name Server": [
+                    "a.ns.apple.com",
+                    "c.ns.apple.com",
+                    "b.ns.apple.com",
+                    "d.ns.apple.com"
+                ]
+            }
+        },
+        "mac.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.comlaude.com",
+                "Registrar": [
+                    "NOM-IQ Ltd dba Com Laude",
+                    "Nom-iq Ltd. dba COM LAUDE"
+                ],
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "101082_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "mac.com-Registrant@anonymised.email",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "mac.com-Admin@anonymised.email",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "mac.com-Tech@anonymised.email",
+                "Name Server": [
+                    "b.ns.apple.com",
+                    "d.ns.apple.com",
+                    "B.NS.APPLE.COM",
+                    "C.NS.APPLE.COM",
+                    "c.ns.apple.com",
+                    "a.ns.apple.com",
+                    "D.NS.APPLE.COM",
+                    "A.NS.APPLE.COM"
+                ]
+            }
+        },
+        "appleworld.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.discount-domain.com",
+                "Registrar": [
+                    "GMO Internet Group, Inc. d/b/a Onamae.com",
+                    "GMO INTERNET, INC."
+                ],
+                "Registrar IANA ID": "49",
+                "Registry Domain ID": "5286698_DOMAIN_COM-VRSN",
+                "Registrant Organization": "APPLE WORLD INC.",
+                "Registrant Phone": "+81.369070856",
+                "Registrant Fax": "Registrant Fax Ext:",
+                "Registrant Email": "system_office+whois@appleworld.co.jp",
+                "Admin Organization": "APPLE WORLD INC.",
+                "Admin Phone": "+81.369070856",
+                "Admin Fax": "Admin Fax Ext:",
+                "Admin Email": "namiki-y@post.appleworld.com",
+                "Tech Organization": "APPLE WORLD INC.",
+                "Tech Phone": "+81.369070856",
+                "Tech Fax": "Tech Fax Ext:",
+                "Tech Email": "namiki-y@post.appleworld.com",
+                "Name Server": [
+                    "04.DNSV.JP",
+                    "01.DNSV.JP",
+                    "01.dnsv.jp",
+                    "02.dnsv.jp",
+                    "03.dnsv.jp",
+                    "04.dnsv.jp",
+                    "03.DNSV.JP",
+                    "02.DNSV.JP"
+                ]
+            }
+        },
+        "greenapple.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.tucows.com",
+                "Registrar": [
+                    "Tucows Domains Inc.",
+                    "TUCOWS, INC."
+                ],
+                "Registrar IANA ID": "69",
+                "Registry Domain ID": "2517658_DOMAIN_COM-VRSN",
+                "Registrant Organization": "REDACTED FOR PRIVACY",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "https://tieredaccess.com/contact/d0aec0ba-cc6d-4114-9a3d-ef18e0e4bb8d",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "REDACTED FOR PRIVACY",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "REDACTED FOR PRIVACY",
+                "Name Server": [
+                    "GROVE.GREENAPPLE.COM",
+                    "chowder.greenapple.com",
+                    "CHOWDER.GREENAPPLE.COM",
+                    "STRUEDEL.GREENAPPLE.COM",
+                    "struedel.greenapple.com",
+                    "grove.greenapple.com"
+                ]
+            }
+        },
+        "applepaysupplies.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.comlaude.com",
+                "Registrar": [
+                    "NOM-IQ Ltd dba Com Laude",
+                    "Nom-iq Ltd. dba COM LAUDE"
+                ],
+                "Registrar IANA ID": "470",
+                "Registry Domain ID": "1900371695_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Apple Inc.",
+                "Registrant Phone": "REDACTED FOR PRIVACY",
+                "Registrant Fax": "REDACTED FOR PRIVACY",
+                "Registrant Email": "applepaysupplies.com-Registrant@anonymised.email",
+                "Admin Organization": "REDACTED FOR PRIVACY",
+                "Admin Phone": "REDACTED FOR PRIVACY",
+                "Admin Fax": "REDACTED FOR PRIVACY",
+                "Admin Email": "applepaysupplies.com-Admin@anonymised.email",
+                "Tech Organization": "REDACTED FOR PRIVACY",
+                "Tech Phone": "REDACTED FOR PRIVACY",
+                "Tech Fax": "REDACTED FOR PRIVACY",
+                "Tech Email": "applepaysupplies.com-Tech@anonymised.email",
+                "Name Server": [
+                    "b.ns.apple.com",
+                    "d.ns.apple.com",
+                    "B.NS.APPLE.COM",
+                    "C.NS.APPLE.COM",
+                    "c.ns.apple.com",
+                    "a.ns.apple.com",
+                    "D.NS.APPLE.COM",
+                    "A.NS.APPLE.COM"
+                ]
+            }
+        },
+        "applecapitalgroup.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.godaddy.com",
+                "Registrar": "GoDaddy.com, LLC",
+                "Registrar IANA ID": "146",
+                "Registry Domain ID": "1590882339_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Domains By Proxy, LLC",
+                "Registrant Phone": "+1.4806242599",
+                "Registrant Fax": "Registrant Fax Ext:",
+                "Registrant Email": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=APPLECAPITALGROUP.COM",
+                "Admin Organization": "Domains By Proxy, LLC",
+                "Admin Phone": "+1.4806242599",
+                "Admin Fax": "Admin Fax Ext:",
+                "Admin Email": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=APPLECAPITALGROUP.COM",
+                "Tech Organization": "Domains By Proxy, LLC",
+                "Tech Phone": "+1.4806242599",
+                "Tech Fax": "Tech Fax Ext:",
+                "Tech Email": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=APPLECAPITALGROUP.COM",
+                "Name Server": [
+                    "NS1.US170.SITEGROUND.US",
+                    "NS2.US170.SITEGROUND.US"
+                ]
+            }
+        },
+        "bigappleflorist.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.godaddy.com",
+                "Registrar": "GoDaddy.com, LLC",
+                "Registrar IANA ID": "146",
+                "Registry Domain ID": "2772027_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Domains By Proxy, LLC",
+                "Registrant Phone": "+1.4806242599",
+                "Registrant Fax": "Registrant Fax Ext:",
+                "Registrant Email": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=BIGAPPLEFLORIST.COM",
+                "Admin Organization": "Domains By Proxy, LLC",
+                "Admin Phone": "+1.4806242599",
+                "Admin Fax": "Admin Fax Ext:",
+                "Admin Email": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=BIGAPPLEFLORIST.COM",
+                "Tech Organization": "Domains By Proxy, LLC",
+                "Tech Phone": "+1.4806242599",
+                "Tech Fax": "Tech Fax Ext:",
+                "Tech Email": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=BIGAPPLEFLORIST.COM",
+                "Name Server": [
+                    "NS77.DOMAINCONTROL.COM",
+                    "NS78.DOMAINCONTROL.COM"
+                ]
+            }
+        },
+        "bigappleherp.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": "whois.godaddy.com",
+                "Registrar": "GoDaddy.com, LLC",
+                "Registrar IANA ID": "146",
+                "Registry Domain ID": "597036_DOMAIN_COM-VRSN",
+                "Registrant Organization": "Domains By Proxy, LLC",
+                "Registrant Phone": "+1.4806242599",
+                "Registrant Fax": "Registrant Fax Ext:",
+                "Registrant Email": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=BIGAPPLEHERP.COM",
+                "Admin Organization": "Domains By Proxy, LLC",
+                "Admin Phone": "+1.4806242599",
+                "Admin Fax": "Admin Fax Ext:",
+                "Admin Email": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=BIGAPPLEHERP.COM",
+                "Tech Organization": "Domains By Proxy, LLC",
+                "Tech Phone": "+1.4806242599",
+                "Tech Fax": "Tech Fax Ext:",
+                "Tech Email": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=BIGAPPLEHERP.COM",
+                "Name Server": [
+                    "NS35.DOMAINCONTROL.COM",
+                    "NS36.DOMAINCONTROL.COM"
+                ]
+            }
+        },
+        "a-sky.jp": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": null,
+                "Registrar": null,
+                "Registrar IANA ID": null,
+                "Registry Domain ID": null,
+                "Registrant Organization": null,
+                "Registrant Phone": null,
+                "Registrant Fax": null,
+                "Registrant Email": null,
+                "Admin Organization": null,
+                "Admin Phone": null,
+                "Admin Fax": null,
+                "Admin Email": null,
+                "Tech Organization": null,
+                "Tech Phone": null,
+                "Tech Fax": null,
+                "Tech Email": null,
+                "Name Server": null
+            }
+        },
+        "1 apple.com-Tech@anonymised.email": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": null,
+                "Registrar": null,
+                "Registrar IANA ID": null,
+                "Registry Domain ID": null,
+                "Registrant Organization": null,
+                "Registrant Phone": null,
+                "Registrant Fax": null,
+                "Registrant Email": null,
+                "Admin Organization": null,
+                "Admin Phone": null,
+                "Admin Fax": null,
+                "Admin Email": null,
+                "Tech Organization": null,
+                "Tech Phone": null,
+                "Tech Fax": null,
+                "Tech Email": null,
+                "Name Server": null
+            }
+        },
+        "2 apple.com-Registrant@anonymised.email": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": null,
+                "Registrar": null,
+                "Registrar IANA ID": null,
+                "Registry Domain ID": null,
+                "Registrant Organization": null,
+                "Registrant Phone": null,
+                "Registrant Fax": null,
+                "Registrant Email": null,
+                "Admin Organization": null,
+                "Admin Phone": null,
+                "Admin Fax": null,
+                "Admin Email": null,
+                "Tech Organization": null,
+                "Tech Phone": null,
+                "Tech Fax": null,
+                "Tech Email": null,
+                "Name Server": null
+            }
+        },
+        "Which one do you want to proceed with? (1/2): ": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": null,
+                "Registrar": null,
+                "Registrar IANA ID": null,
+                "Registry Domain ID": null,
+                "Registrant Organization": null,
+                "Registrant Phone": null,
+                "Registrant Fax": null,
+                "Registrant Email": null,
+                "Admin Organization": null,
+                "Admin Phone": null,
+                "Admin Fax": null,
+                "Admin Email": null,
+                "Tech Organization": null,
+                "Tech Phone": null,
+                "Tech Fax": null,
+                "Tech Email": null,
+                "Name Server": null
+            }
+        },
+        "": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": null,
+                "Registrar": null,
+                "Registrar IANA ID": null,
+                "Registry Domain ID": null,
+                "Registrant Organization": null,
+                "Registrant Phone": null,
+                "Registrant Fax": null,
+                "Registrant Email": null,
+                "Admin Organization": null,
+                "Admin Phone": null,
+                "Admin Fax": null,
+                "Admin Email": null,
+                "Tech Organization": null,
+                "Tech Phone": null,
+                "Tech Fax": null,
+                "Tech Email": null,
+                "Name Server": null
+            }
+        },
+        " If you want to exit, press Enter ": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": null,
+                "Registrar": null,
+                "Registrar IANA ID": null,
+                "Registry Domain ID": null,
+                "Registrant Organization": null,
+                "Registrant Phone": null,
+                "Registrant Fax": null,
+                "Registrant Email": null,
+                "Admin Organization": null,
+                "Admin Phone": null,
+                "Admin Fax": null,
+                "Admin Email": null,
+                "Tech Organization": null,
+                "Tech Phone": null,
+                "Tech Fax": null,
+                "Tech Email": null,
+                "Name Server": null
+            }
+        },
+        " >> apple.com": {
+            "whoisRecord": {
+                "Registrar WHOIS Server": null,
+                "Registrar": null,
+                "Registrar IANA ID": null,
+                "Registry Domain ID": null,
+                "Registrant Organization": null,
+                "Registrant Phone": null,
+                "Registrant Fax": null,
+                "Registrant Email": null,
+                "Admin Organization": null,
+                "Admin Phone": null,
+                "Admin Fax": null,
+                "Admin Email": null,
+                "Tech Organization": null,
+                "Tech Phone": null,
+                "Tech Fax": null,
+                "Tech Email": null,
+                "Name Server": null
+            }
+        }
+    }
+}
