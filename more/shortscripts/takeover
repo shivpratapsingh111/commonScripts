@@ -1,0 +1,13 @@
+#!/bin/bash
+
+while read -r subdomain; do
+    if [ -z "$subdomain" ]; then
+        continue
+    fi
+    
+    status=$(dig +nocmd +noquestion +noauthority +noadditional +nostats "$subdomain" | awk '/status:/ {print $6}')
+    
+    if [[ "$status" != "NOERROR" ]]; then
+        echo "$subdomain ($status)" | grep -v "NOERROR"
+    fi
+done

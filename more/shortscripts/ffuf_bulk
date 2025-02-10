@@ -1,0 +1,37 @@
+#!/bin/bash
+
+# Check if at least one argument (URLs file) is provided
+if [ "$#" -lt 1 ]; then
+    echo "Usage: $0 <urls_file> <ffuf_options...>"
+    exit 1
+fi
+
+# Extract the URLs file from the first argument
+URLS_FILE="$1"
+shift  # Remove the first argument (URLs file), remaining are FFUF options
+
+# Combine all remaining arguments as FFUF options
+FFUF_OPTIONS="$@"
+
+# Read each URL from the file and run ffuf command
+while IFS= read -r url; do
+    # Extract domain name from URL (without protocol and path)
+    domain=$(echo "$url" | awk -F[/:] '{print $4}')
+
+    # Construct output filename
+    output_file="${domain}_ffuf.txt"
+
+    # Modify URL to add FUZZ appropriately
+    if [[ "$url" == */ ]]; then
+        target_url="${url}FUZZ"
+    else
+        target_url="${url}/FUZZ"
+    fi
+
+    # Run ffuf command with modified URL and provided options
+    ffuf -u "$target_url" $FFUF_OPTIONS | tee -a "$output_file"
+
+    echo "Scan completed for: $url (Modified: $target_url), output saved to: $output_file"
+done < "$URLS_FILE"
+
+echo "All URLs have been processed."

@@ -1,0 +1,113 @@
+#!/bin/bash
+
+set -e  # Exit on error
+exec > >(tee -i /var/log/aws_instance_volume_cleanup.log) 2>&1  # Log output
+
+REGION="ap-south-1"
+
+# Function to list and choose instances
+choose_instance() {
+    echo "[+] Fetching running instances..."
+    INSTANCE_INFO=($(aws ec2 describe-instances --filters "Name=instance-state-name,Values=running" --query "Reservations[*].Instances[*].[InstanceId,Tags[?Key=='Name'].Value|[0]]" --output text --region $REGION))
+
+    if [ ${#INSTANCE_INFO[@]} -eq 0 ]; then
+        echo "[!] No running instances found. Exiting."
+        exit 0
+    fi
+
+    echo "[+] Running Instances:"
+    for ((i=0; i<${#INSTANCE_INFO[@]}; i+=2)); do
+        echo "$((i/2+1)). ID: ${INSTANCE_INFO[i]}, Name: ${INSTANCE_INFO[i+1]:-NoName}"
+    done
+
+    echo "Enter the number of the instance to delete, or type 'all' to delete all instances and attached volumes:"
+    read CHOICE
+
+    if [[ "$CHOICE" == "all" ]]; then
+        delete_all_instances "${INSTANCE_INFO[@]}"
+    elif [[ "$CHOICE" =~ ^[0-9]+$ ]] && (( CHOICE > 0 && CHOICE <= ${#INSTANCE_INFO[@]}/2 )); then
+        INSTANCE_ID=${INSTANCE_INFO[$(( (CHOICE-1)*2 ))]}
+        echo "[+] Selected Instance ID: $INSTANCE_ID"
+        delete_instance_and_volumes $INSTANCE_ID
+    else
+        echo "[!] Invalid selection. Exiting."
+        exit 1
+    fi
+}
+
+# Function to delete all instances and their volumes
+delete_all_instances() {
+    INSTANCE_IDS=()
+    VOLUME_IDS=()
+
+    for ((i=0; i<$#; i+=2)); do
+        INSTANCE_IDS+=(${!i})
+        ATTACHED_VOLUMES=($(aws ec2 describe-instances --instance-ids ${!i} --query "Reservations[0].Instances[0].BlockDeviceMappings[*].Ebs.VolumeId" --output text --region $REGION))
+        VOLUME_IDS+=("${ATTACHED_VOLUMES[@]}")
+    done
+
+    echo "[+] Terminating all instances: ${INSTANCE_IDS[@]}"
+    aws ec2 terminate-instances --instance-ids ${INSTANCE_IDS[@]} --region $REGION
+    aws ec2 wait instance-terminated --instance-ids ${INSTANCE_IDS[@]} --region $REGION
+
+    echo "[+] Deleting all attached volumes: ${VOLUME_IDS[@]}"
+    for VOLUME in ${VOLUME_IDS[@]}; do
+        aws ec2 delete-volume --volume-id $VOLUME --region $REGION
+    done
+
+    echo "[✅] All instances and attached volumes deleted."
+}
+
+# Function to delete a specific instance and its volumes
+delete_instance_and_volumes() {
+    INSTANCE_ID=$1
+
+    echo "[+] Fetching volumes attached to instance $INSTANCE_ID..."
+    VOLUMES=($(aws ec2 describe-instances --instance-ids $INSTANCE_ID --query "Reservations[0].Instances[0].BlockDeviceMappings[*].Ebs.VolumeId" --output text --region $REGION))
+
+    echo "[+] Volumes attached to $INSTANCE_ID:"
+    for i in "${!VOLUMES[@]}"; do
+        echo "$((i+1)). Volume ID: ${VOLUMES[$i]}"
+    done
+
+    echo "Do you want to delete all volumes attached to $INSTANCE_ID? (yes/no)"
+    read DELETE_ALL_VOLUMES
+
+    if [[ "$DELETE_ALL_VOLUMES" == "yes" ]]; then
+        echo "[+] Terminating instance $INSTANCE_ID..."
+        aws ec2 terminate-instances --instance-ids $INSTANCE_ID --region $REGION
+        aws ec2 wait instance-terminated --instance-ids $INSTANCE_ID --region $REGION
+
+        echo "[+] Deleting attached volumes..."
+        for VOLUME in ${VOLUMES[@]}; do
+            aws ec2 delete-volume --volume-id $VOLUME --region $REGION
+        done
+
+        echo "[✅] Instance $INSTANCE_ID and all attached volumes deleted."
+    else
+        echo "Enter the number of the volume to delete, or type 'skip' to leave volumes intact:"
+        read VOLUME_CHOICE
+
+        if [[ "$VOLUME_CHOICE" =~ ^[0-9]+$ ]] && (( VOLUME_CHOICE > 0 && VOLUME_CHOICE <= ${#VOLUMES[@]} )); then
+            SELECTED_VOLUME=${VOLUMES[$((VOLUME_CHOICE-1))]}
+            echo "[+] Terminating instance $INSTANCE_ID..."
+            aws ec2 terminate-instances --instance-ids $INSTANCE_ID --region $REGION
+            aws ec2 wait instance-terminated --instance-ids $INSTANCE_ID --region $REGION
+
+            echo "[+] Deleting volume $SELECTED_VOLUME..."
+            aws ec2 delete-volume --volume-id $SELECTED_VOLUME --region $REGION
+            echo "[✅] Instance $INSTANCE_ID and volume $SELECTED_VOLUME deleted."
+        elif [[ "$VOLUME_CHOICE" == "skip" ]]; then
+            echo "[+] Terminating instance $INSTANCE_ID without deleting volumes..."
+            aws ec2 terminate-instances --instance-ids $INSTANCE_ID --region $REGION
+            aws ec2 wait instance-terminated --instance-ids $INSTANCE_ID --region $REGION
+            echo "[✅] Instance $INSTANCE_ID terminated. Volumes left intact."
+        else
+            echo "[!] Invalid selection. Exiting."
+            exit 1
+        fi
+    fi
+}
+
+# Start the script
+choose_instance

@@ -1,2 +1,2 @@
-Install xsel
-parallel
+[Install] xsel
+[Install] parallel

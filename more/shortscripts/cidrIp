@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Extract IPs from IP Range
 # Function to convert IP to decimal
 ip_to_decimal() {
     local ip=$1

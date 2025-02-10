@@ -1,6 +1,3 @@
-### nuclei
-* Script to organise nuclei templates: https://github.com/shivpratapsingh111/organiseNuclei
-
 ### scriptsReconftw
 * scriptsReconftw/ dir contains scripts related to ReconFTW tool, to organize.
     * ssClassify/ - This folder contains all the necessary files and code to classify scrrenshots based on their category. (Sub-Module of `organise.sh`)
@@ -14,3 +11,4 @@
     * upload.sh - uploads file to server using scp utility.
     * syncFolder.sh - syncs server & client folder.
 
+* more/ dir contains some short scripts to save time (Maybe)

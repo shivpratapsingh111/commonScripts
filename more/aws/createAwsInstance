@@ -1,0 +1,40 @@
+#!/bin/bash
+
+set -e  # Exit on error
+exec > >(tee -i ~/awsSetup.log) 2>&1  # Log output
+
+# Variables
+REGION="ap-south-1"
+INSTANCE_TYPE="t2.micro"
+VPC_ID="vpc-06b0b1b4596d88eda"
+SECURITY_GROUP="sg-0e8c25d6061e22f04"
+SUBNET_ID=$(aws ec2 describe-subnets --filters "Name=vpc-id,Values=$VPC_ID" --query "Subnets[0].SubnetId" --region $REGION --output text)
+#AMI_ID=$(aws ec2 describe-images --filters "Name=name,Values=debian-12-amd64-*" "Name=state,Values=available" --query "Images[0].ImageId" --region $REGION --output text)
+KEY_NAME="aws"
+AMI_ID="ami-00bb6a80f01f03502"
+
+# Create EC2 instance
+INSTANCE_ID=$(aws ec2 run-instances \
+	--image-id $AMI_ID \
+	--instance-type $INSTANCE_TYPE \
+	--key-name $KEY_NAME \
+	--subnet-id $SUBNET_ID \
+	--security-group-ids $SECURITY_GROUP \
+	--block-device-mappings "[{\"DeviceName\": \"/dev/sda1\", \"Ebs\": {\"VolumeSize\": 15, \"DeleteOnTermination\": true}}]" \
+	--region $REGION \
+	--query 'Instances[0].InstanceId' \
+	--output text)
+echo "[+] Instance $INSTANCE_ID created. Waiting for it to be running..."
+aws ec2 wait instance-running --instance-ids $INSTANCE_ID --region $REGION
+echo "[+] Instance is running."
+
+# Wait for SSH availability
+INSTANCE_IP=$(aws ec2 describe-instances --instance-ids $INSTANCE_ID --query 'Reservations[0].Instances[0].PublicIpAddress' --region $REGION --output text)
+echo "[+] Waiting for SSH access on $INSTANCE_IP..."
+
+#until ssh -o StrictHostKeyChecking=no -i ~/.ssh/$KEY_NAME ubuntu@$INSTANCE_IP 'echo SSH ready' 2>/dev/null; do sleep 5; done
+echo "[+] SSH is available."
+sleep 20
+setupSsh ubuntu $INSTANCE_IP ~/.ssh/$KEY_NAME 
+setupSsh ubuntu $INSTANCE_IP ~/.ssh/$KEY_NAME 
+sshAwsInstance

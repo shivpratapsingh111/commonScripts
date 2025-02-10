@@ -1,12 +1,11 @@
-Image classification is working fine
-
 What to do:
     - Implement multi-threading
-
+    - When showing Done with Image path on cli, show only image name instead of whole Image path.
     - There are so many variables in the script, it is becoming hard to handle,
     make another json file that will store which key in `strings.json` belongs to which directory, 
     Now when you have to move the image to respected directory, fetch the value of the key of strings.json from new json file which will be holding respective directory paths. 
-
+    - Add [-r] flag to reverse everything.
+    - Implement yaml format to add more values to grep from screenshots
 What can you do:
     Add more keys and values to strings.json
 

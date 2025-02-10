@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# Fetch the Instance ID of the only running instance
+INSTANCE_ID=$(aws ec2 describe-instances --filters "Name=instance-state-name,Values=running" --query "Reservations[0].Instances[0].InstanceId" --region ap-south-1 --output text)
+
+# Check if the instance ID was found
+if [ "$INSTANCE_ID" != "None" ]; then
+    # Terminate the instance
+    aws ec2 terminate-instances --instance-ids "$INSTANCE_ID" --region ap-south-1
+    
+    # Output the termination message
+    echo "Instance with ID $INSTANCE_ID has been terminated."
+else
+    echo "No running instance found."
+fi

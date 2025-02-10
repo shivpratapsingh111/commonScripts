@@ -1,0 +1,51 @@
+#!/bin/bash
+
+# Define variables
+USER=$1            # The user to SSH as
+HOST=$2            # The remote server IP or hostname
+SSH_KEY_PATH=$3    # Path to your private SSH key (optional, defaults to ~/.ssh/aws)
+
+# Ensure that required parameters are passed
+if [ -z "$USER" ] || [ -z "$HOST" ]; then
+    echo "Usage: $0 <user> <host> [<ssh_key_path>]"
+    exit 1
+fi
+
+# Default SSH key if not provided
+if [ -z "$SSH_KEY_PATH" ]; then
+    SSH_KEY_PATH=~/.ssh/aws
+fi
+
+# SSH into the remote server as the specified user
+echo "SSH-ing into $USER@$HOST..."
+
+ssh -o StrictHostKeyChecking=no -i "$SSH_KEY_PATH" "$USER@$HOST" <<'EOF'
+  # Check if root login is enabled in the sshd_config file
+  if ! grep -q "^PermitRootLogin yes" /etc/ssh/sshd_config; then
+    echo "Root login is not enabled. Enabling root login..."
+
+    # Edit sshd_config to enable root login
+    sudo sed -i 's/^#PermitRootLogin prohibit-password/PermitRootLogin yes/' /etc/ssh/sshd_config
+
+    # Ensure the root .ssh directory exists
+    sudo mkdir -p /root/.ssh
+    sudo chmod 700 /root/.ssh
+
+    # Copy the public SSH key to root's authorized_keys (assuming the key is in the current user's ~/.ssh directory)
+    PUBLIC_KEY=$(cat /home/$USER/.ssh/authorized_keys)
+    echo "$PUBLIC_KEY" | sudo tee -a /root/.ssh/authorized_keys > /dev/null
+
+    # Set correct permissions
+    sudo chmod 600 /root/.ssh/authorized_keys
+    sudo chown -R root:root /root/.ssh
+
+    sudo sed -i -e 's/.*exit 142" \(.*$\)/\1/' /root/.ssh/authorized_keys
+
+    # Restart SSH service to apply changes
+    sudo systemctl restart ssh
+
+    echo "Root SSH access has been enabled successfully!"
+  else
+    echo "Root SSH access is already enabled."
+  fi
+EOF
